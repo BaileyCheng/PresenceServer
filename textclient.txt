@@ -1,0 +1,6193 @@
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.188.75
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.188.75
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.188.75
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5061" 
+time="1216972677265"
+isSender="true" 
+transactionId="presenceserver:c2f1989743ea8534edeaf79a2c9b534a@192.168.188.75:1:message:192.168.188.75:5065" 
+callId="c2f1989743ea8534edeaf79a2c9b534a@192.168.188.75" 
+firstLine="MESSAGE sip:s1@192.168.188.75:5061;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:s1@192.168.188.75:5061;transport=udp SIP/2.0
+Call-ID: c2f1989743ea8534edeaf79a2c9b534a@192.168.188.75
+CSeq: 1 MESSAGE
+From: "s5" <sip:s5@192.168.188.75:5065>;tag=PresenceServer
+To: "s1" <sip:s1@192.168.188.75:5061>
+Via: SIP/2.0/UDP 192.168.188.75:5065;branch=branch1
+Max-Forwards: 70
+Contact: "s5" <sip:s5@192.168.188.75:5065>
+Content-Type: text/plain
+Content-Length: 3
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1216972677859"
+isSender="false" 
+transactionId="presenceserver:c2f1989743ea8534edeaf79a2c9b534a@192.168.188.75:1:message:192.168.188.75:5065" 
+callId="c2f1989743ea8534edeaf79a2c9b534a@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: c2f1989743ea8534edeaf79a2c9b534a@192.168.188.75
+CSeq: 1 MESSAGE
+From: "s5" <sip:s5@192.168.188.75:5065>;tag=PresenceServer
+To: "s1" <sip:s1@192.168.188.75:5061>;tag=888
+Via: SIP/2.0/UDP 192.168.188.75:5065;branch=branch1
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.188.75
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.188.75
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<message
+from="192.168.188.75:5062" 
+to="192.168.188.75:5061" 
+time="1216973945687"
+isSender="true" 
+transactionId="presenceserver:4792f47c299360af27abc4221512c085@192.168.188.75:1:message:192.168.188.75:5062" 
+callId="4792f47c299360af27abc4221512c085@192.168.188.75" 
+firstLine="MESSAGE sip:s1@192.168.188.75:5061;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:s1@192.168.188.75:5061;transport=udp SIP/2.0
+Call-ID: 4792f47c299360af27abc4221512c085@192.168.188.75
+CSeq: 1 MESSAGE
+From: "s2" <sip:s2@192.168.188.75:5062>;tag=PresenceServer
+To: "s1" <sip:s1@192.168.188.75:5061>
+Via: SIP/2.0/UDP 192.168.188.75:5062;branch=branch1
+Max-Forwards: 70
+Contact: "s2" <sip:s2@192.168.188.75:5062>
+Content-Type: text/plain
+Content-Length: 3
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5062" 
+time="1216973945765"
+isSender="false" 
+transactionId="presenceserver:4792f47c299360af27abc4221512c085@192.168.188.75:1:message:192.168.188.75:5062" 
+callId="4792f47c299360af27abc4221512c085@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 4792f47c299360af27abc4221512c085@192.168.188.75
+CSeq: 1 MESSAGE
+From: "s2" <sip:s2@192.168.188.75:5062>;tag=PresenceServer
+To: "s1" <sip:s1@192.168.188.75:5061>;tag=888
+Via: SIP/2.0/UDP 192.168.188.75:5062;branch=branch1
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.188.75
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.188.75
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.188.75
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<message
+from="192.168.188.75:5062" 
+to="192.168.188.75:5065" 
+time="1217228452782"
+isSender="false" 
+transactionId="z9hg4bk6dcfa250d8cd928e2c12f1282b21f905" 
+callId="5f3bc504989f97e2617edae26805ab99@192.168.188.75" 
+firstLine="PUBLISH sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[PUBLISH sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 5f3bc504989f97e2617edae26805ab99@192.168.188.75
+CSeq: 1 PUBLISH
+From: "s2" <sip:s2@192.168.188.75:5062>;tag=textclientv1.0
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5062;branch=z9hG4bK6dcfa250d8cd928e2c12f1282b21f905
+Max-Forwards: 70
+Contact: "s2" <sip:s2@192.168.188.75:5062>
+Event: presence
+Expires: 600000
+Content-Type: text/plain
+Content-Length: 3
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5062" 
+time="1217228453188"
+isSender="true" 
+transactionId="z9hg4bk6dcfa250d8cd928e2c12f1282b21f905" 
+callId="5f3bc504989f97e2617edae26805ab99@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 5f3bc504989f97e2617edae26805ab99@192.168.188.75
+CSeq: 1 PUBLISH
+From: "s2" <sip:s2@192.168.188.75:5062>;tag=textclientv1.0
+To: "s5" <sip:s5@192.168.188.75:5065>;tag=888
+Via: SIP/2.0/UDP 192.168.188.75:5062;branch=z9hG4bK6dcfa250d8cd928e2c12f1282b21f905
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5062" 
+to="192.168.188.75:5065" 
+time="1217228453360"
+isSender="false" 
+transactionId="z9hg4bk6dcfa250d8cd928e2c12f1282b21f905" 
+callId="5f3bc504989f97e2617edae26805ab99@192.168.188.75" 
+firstLine="PUBLISH sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[PUBLISH sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 5f3bc504989f97e2617edae26805ab99@192.168.188.75
+CSeq: 1 PUBLISH
+From: "s2" <sip:s2@192.168.188.75:5062>;tag=textclientv1.0
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5062;branch=z9hG4bK6dcfa250d8cd928e2c12f1282b21f905
+Max-Forwards: 70
+Contact: "s2" <sip:s2@192.168.188.75:5062>
+Event: presence
+Expires: 600000
+Content-Type: text/plain
+Content-Length: 3
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5062" 
+time="1217228453360"
+isSender="true" 
+transactionId="z9hg4bk6dcfa250d8cd928e2c12f1282b21f905" 
+callId="5f3bc504989f97e2617edae26805ab99@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 5f3bc504989f97e2617edae26805ab99@192.168.188.75
+CSeq: 1 PUBLISH
+From: "s2" <sip:s2@192.168.188.75:5062>;tag=textclientv1.0
+To: "s5" <sip:s5@192.168.188.75:5065>;tag=888
+Via: SIP/2.0/UDP 192.168.188.75:5062;branch=z9hG4bK6dcfa250d8cd928e2c12f1282b21f905
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.188.75
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.188.75
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217233956751"
+isSender="false" 
+transactionId="z9hg4bkf4fa909fa04d8972a98a693ee06e6718" 
+callId="69ec75af23431e9f72930632d4f5600b@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 69ec75af23431e9f72930632d4f5600b@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bKf4fa909fa04d8972a98a693ee06e6718
+Max-Forwards: 70
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217233957204"
+isSender="false" 
+transactionId="z9hg4bkf4fa909fa04d8972a98a693ee06e6718" 
+callId="69ec75af23431e9f72930632d4f5600b@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 69ec75af23431e9f72930632d4f5600b@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bKf4fa909fa04d8972a98a693ee06e6718
+Max-Forwards: 70
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217233958204"
+isSender="false" 
+transactionId="z9hg4bkf4fa909fa04d8972a98a693ee06e6718" 
+callId="69ec75af23431e9f72930632d4f5600b@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 69ec75af23431e9f72930632d4f5600b@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bKf4fa909fa04d8972a98a693ee06e6718
+Max-Forwards: 70
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217233960219"
+isSender="false" 
+transactionId="z9hg4bkf4fa909fa04d8972a98a693ee06e6718" 
+callId="69ec75af23431e9f72930632d4f5600b@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 69ec75af23431e9f72930632d4f5600b@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bKf4fa909fa04d8972a98a693ee06e6718
+Max-Forwards: 70
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217233964204"
+isSender="false" 
+transactionId="z9hg4bkf4fa909fa04d8972a98a693ee06e6718" 
+callId="69ec75af23431e9f72930632d4f5600b@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 69ec75af23431e9f72930632d4f5600b@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bKf4fa909fa04d8972a98a693ee06e6718
+Max-Forwards: 70
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217233968235"
+isSender="false" 
+transactionId="z9hg4bkf4fa909fa04d8972a98a693ee06e6718" 
+callId="69ec75af23431e9f72930632d4f5600b@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 69ec75af23431e9f72930632d4f5600b@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bKf4fa909fa04d8972a98a693ee06e6718
+Max-Forwards: 70
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217233972235"
+isSender="false" 
+transactionId="z9hg4bkf4fa909fa04d8972a98a693ee06e6718" 
+callId="69ec75af23431e9f72930632d4f5600b@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 69ec75af23431e9f72930632d4f5600b@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bKf4fa909fa04d8972a98a693ee06e6718
+Max-Forwards: 70
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217233976235"
+isSender="false" 
+transactionId="z9hg4bkf4fa909fa04d8972a98a693ee06e6718" 
+callId="69ec75af23431e9f72930632d4f5600b@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 69ec75af23431e9f72930632d4f5600b@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bKf4fa909fa04d8972a98a693ee06e6718
+Max-Forwards: 70
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217233980251"
+isSender="false" 
+transactionId="z9hg4bkf4fa909fa04d8972a98a693ee06e6718" 
+callId="69ec75af23431e9f72930632d4f5600b@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 69ec75af23431e9f72930632d4f5600b@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bKf4fa909fa04d8972a98a693ee06e6718
+Max-Forwards: 70
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217233984282"
+isSender="false" 
+transactionId="z9hg4bkf4fa909fa04d8972a98a693ee06e6718" 
+callId="69ec75af23431e9f72930632d4f5600b@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 69ec75af23431e9f72930632d4f5600b@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bKf4fa909fa04d8972a98a693ee06e6718
+Max-Forwards: 70
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.188.75
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217234116532"
+isSender="false" 
+transactionId="z9hg4bkd1e36dcd758c976cc0755a7496556841" 
+callId="d726d1be6251e54749f798b585fe0824@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: d726d1be6251e54749f798b585fe0824@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bKd1e36dcd758c976cc0755a7496556841
+Max-Forwards: 70
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217234117016"
+isSender="false" 
+transactionId="z9hg4bkd1e36dcd758c976cc0755a7496556841" 
+callId="d726d1be6251e54749f798b585fe0824@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: d726d1be6251e54749f798b585fe0824@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bKd1e36dcd758c976cc0755a7496556841
+Max-Forwards: 70
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217234118032"
+isSender="false" 
+transactionId="z9hg4bkd1e36dcd758c976cc0755a7496556841" 
+callId="d726d1be6251e54749f798b585fe0824@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: d726d1be6251e54749f798b585fe0824@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bKd1e36dcd758c976cc0755a7496556841
+Max-Forwards: 70
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217234120032"
+isSender="false" 
+transactionId="z9hg4bkd1e36dcd758c976cc0755a7496556841" 
+callId="d726d1be6251e54749f798b585fe0824@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: d726d1be6251e54749f798b585fe0824@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bKd1e36dcd758c976cc0755a7496556841
+Max-Forwards: 70
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217234124016"
+isSender="false" 
+transactionId="z9hg4bkd1e36dcd758c976cc0755a7496556841" 
+callId="d726d1be6251e54749f798b585fe0824@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: d726d1be6251e54749f798b585fe0824@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bKd1e36dcd758c976cc0755a7496556841
+Max-Forwards: 70
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.188.75
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217234186235"
+isSender="false" 
+transactionId="z9hg4bk4ff160a166fd4fd0aa30a2b6f1446863" 
+callId="9ba58aa905d33862be4dad01f2e6a411@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 9ba58aa905d33862be4dad01f2e6a411@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK4ff160a166fd4fd0aa30a2b6f1446863
+Max-Forwards: 70
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217234186719"
+isSender="false" 
+transactionId="z9hg4bk4ff160a166fd4fd0aa30a2b6f1446863" 
+callId="9ba58aa905d33862be4dad01f2e6a411@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 9ba58aa905d33862be4dad01f2e6a411@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK4ff160a166fd4fd0aa30a2b6f1446863
+Max-Forwards: 70
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217234187704"
+isSender="false" 
+transactionId="z9hg4bk4ff160a166fd4fd0aa30a2b6f1446863" 
+callId="9ba58aa905d33862be4dad01f2e6a411@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 9ba58aa905d33862be4dad01f2e6a411@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK4ff160a166fd4fd0aa30a2b6f1446863
+Max-Forwards: 70
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217234189719"
+isSender="false" 
+transactionId="z9hg4bk4ff160a166fd4fd0aa30a2b6f1446863" 
+callId="9ba58aa905d33862be4dad01f2e6a411@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 9ba58aa905d33862be4dad01f2e6a411@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK4ff160a166fd4fd0aa30a2b6f1446863
+Max-Forwards: 70
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.188.75
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217234225704"
+isSender="false" 
+transactionId="z9hg4bk489b51464ae48bbc4d2b49f0d57095df" 
+callId="b4c9a95b505164551b17b351707fb3c5@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: b4c9a95b505164551b17b351707fb3c5@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK489b51464ae48bbc4d2b49f0d57095df
+Max-Forwards: 70
+Content-Type: text/plain
+Content-Length: 3
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5061" 
+time="1217234226172"
+isSender="true" 
+transactionId="z9hg4bk489b51464ae48bbc4d2b49f0d57095df" 
+callId="b4c9a95b505164551b17b351707fb3c5@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: b4c9a95b505164551b17b351707fb3c5@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK489b51464ae48bbc4d2b49f0d57095df
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217234226438"
+isSender="false" 
+transactionId="z9hg4bk489b51464ae48bbc4d2b49f0d57095df" 
+callId="b4c9a95b505164551b17b351707fb3c5@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: b4c9a95b505164551b17b351707fb3c5@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK489b51464ae48bbc4d2b49f0d57095df
+Max-Forwards: 70
+Content-Type: text/plain
+Content-Length: 3
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5061" 
+time="1217234226454"
+isSender="true" 
+transactionId="z9hg4bk489b51464ae48bbc4d2b49f0d57095df" 
+callId="b4c9a95b505164551b17b351707fb3c5@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: b4c9a95b505164551b17b351707fb3c5@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK489b51464ae48bbc4d2b49f0d57095df
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.188.75
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217234339360"
+isSender="false" 
+transactionId="z9hg4bk88f03602ffb4f1fed4a85138dd5071aa" 
+callId="9ecf618de6e802976f5da4167dbfedcb@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 9ecf618de6e802976f5da4167dbfedcb@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK88f03602ffb4f1fed4a85138dd5071aa
+Max-Forwards: 70
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217234339844"
+isSender="false" 
+transactionId="z9hg4bk88f03602ffb4f1fed4a85138dd5071aa" 
+callId="9ecf618de6e802976f5da4167dbfedcb@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 9ecf618de6e802976f5da4167dbfedcb@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK88f03602ffb4f1fed4a85138dd5071aa
+Max-Forwards: 70
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217234340829"
+isSender="false" 
+transactionId="z9hg4bk88f03602ffb4f1fed4a85138dd5071aa" 
+callId="9ecf618de6e802976f5da4167dbfedcb@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 9ecf618de6e802976f5da4167dbfedcb@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK88f03602ffb4f1fed4a85138dd5071aa
+Max-Forwards: 70
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217234342844"
+isSender="false" 
+transactionId="z9hg4bk88f03602ffb4f1fed4a85138dd5071aa" 
+callId="9ecf618de6e802976f5da4167dbfedcb@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 9ecf618de6e802976f5da4167dbfedcb@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK88f03602ffb4f1fed4a85138dd5071aa
+Max-Forwards: 70
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217234346829"
+isSender="false" 
+transactionId="z9hg4bk88f03602ffb4f1fed4a85138dd5071aa" 
+callId="9ecf618de6e802976f5da4167dbfedcb@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 9ecf618de6e802976f5da4167dbfedcb@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK88f03602ffb4f1fed4a85138dd5071aa
+Max-Forwards: 70
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217234350860"
+isSender="false" 
+transactionId="z9hg4bk88f03602ffb4f1fed4a85138dd5071aa" 
+callId="9ecf618de6e802976f5da4167dbfedcb@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 9ecf618de6e802976f5da4167dbfedcb@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK88f03602ffb4f1fed4a85138dd5071aa
+Max-Forwards: 70
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.188.75
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217234434422"
+isSender="false" 
+transactionId="z9hg4bk68a37ee5da569d7971c77f71470d2e42" 
+callId="eecf9adef3d6b5d206ad6058fa8921cd@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: eecf9adef3d6b5d206ad6058fa8921cd@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK68a37ee5da569d7971c77f71470d2e42
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5061>
+Content-Type: text/plain
+Content-Length: 3
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5061" 
+time="1217234434844"
+isSender="true" 
+transactionId="z9hg4bk68a37ee5da569d7971c77f71470d2e42" 
+callId="eecf9adef3d6b5d206ad6058fa8921cd@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: eecf9adef3d6b5d206ad6058fa8921cd@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK68a37ee5da569d7971c77f71470d2e42
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217234435016"
+isSender="false" 
+transactionId="z9hg4bk68a37ee5da569d7971c77f71470d2e42" 
+callId="eecf9adef3d6b5d206ad6058fa8921cd@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: eecf9adef3d6b5d206ad6058fa8921cd@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK68a37ee5da569d7971c77f71470d2e42
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5061>
+Content-Type: text/plain
+Content-Length: 3
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5061" 
+time="1217234435016"
+isSender="true" 
+transactionId="z9hg4bk68a37ee5da569d7971c77f71470d2e42" 
+callId="eecf9adef3d6b5d206ad6058fa8921cd@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: eecf9adef3d6b5d206ad6058fa8921cd@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK68a37ee5da569d7971c77f71470d2e42
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.188.75
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217234726391"
+isSender="false" 
+transactionId="z9hg4bk53e8591979abd8ac82dcc8fcf488876d" 
+callId="f57dc3d76328274d7e41ac187d4c7e4e@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: f57dc3d76328274d7e41ac187d4c7e4e@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK53e8591979abd8ac82dcc8fcf488876d
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5061>
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217234726844"
+isSender="false" 
+transactionId="z9hg4bk53e8591979abd8ac82dcc8fcf488876d" 
+callId="f57dc3d76328274d7e41ac187d4c7e4e@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: f57dc3d76328274d7e41ac187d4c7e4e@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK53e8591979abd8ac82dcc8fcf488876d
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5061>
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217234727860"
+isSender="false" 
+transactionId="z9hg4bk53e8591979abd8ac82dcc8fcf488876d" 
+callId="f57dc3d76328274d7e41ac187d4c7e4e@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: f57dc3d76328274d7e41ac187d4c7e4e@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK53e8591979abd8ac82dcc8fcf488876d
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5061>
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217234729860"
+isSender="false" 
+transactionId="z9hg4bk53e8591979abd8ac82dcc8fcf488876d" 
+callId="f57dc3d76328274d7e41ac187d4c7e4e@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: f57dc3d76328274d7e41ac187d4c7e4e@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK53e8591979abd8ac82dcc8fcf488876d
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5061>
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.188.75
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217234761938"
+isSender="false" 
+transactionId="z9hg4bk0698bc075e6c7c6d18bc8f6ed837aec5" 
+callId="426ceccc8a888e7f8b5e26127ff293a4@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 426ceccc8a888e7f8b5e26127ff293a4@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK0698bc075e6c7c6d18bc8f6ed837aec5
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5061>
+Content-Type: text/plain
+Content-Length: 3
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5061" 
+time="1217234762344"
+isSender="true" 
+transactionId="z9hg4bk0698bc075e6c7c6d18bc8f6ed837aec5" 
+callId="426ceccc8a888e7f8b5e26127ff293a4@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 426ceccc8a888e7f8b5e26127ff293a4@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK0698bc075e6c7c6d18bc8f6ed837aec5
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217234762532"
+isSender="false" 
+transactionId="z9hg4bk0698bc075e6c7c6d18bc8f6ed837aec5" 
+callId="426ceccc8a888e7f8b5e26127ff293a4@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 426ceccc8a888e7f8b5e26127ff293a4@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK0698bc075e6c7c6d18bc8f6ed837aec5
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5061>
+Content-Type: text/plain
+Content-Length: 3
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5061" 
+time="1217234762547"
+isSender="true" 
+transactionId="z9hg4bk0698bc075e6c7c6d18bc8f6ed837aec5" 
+callId="426ceccc8a888e7f8b5e26127ff293a4@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 426ceccc8a888e7f8b5e26127ff293a4@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK0698bc075e6c7c6d18bc8f6ed837aec5
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217234816235"
+isSender="false" 
+transactionId="z9hg4bkf29d57aa4a41fe4429f636b27dc7501c" 
+callId="f029bbf0ea1094eb8e65f4ac94c04116@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: f029bbf0ea1094eb8e65f4ac94c04116@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bKf29d57aa4a41fe4429f636b27dc7501c
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5061>
+Content-Type: text/plain
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217234816735"
+isSender="false" 
+transactionId="z9hg4bkf29d57aa4a41fe4429f636b27dc7501c" 
+callId="f029bbf0ea1094eb8e65f4ac94c04116@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: f029bbf0ea1094eb8e65f4ac94c04116@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bKf29d57aa4a41fe4429f636b27dc7501c
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5061>
+Content-Type: text/plain
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217234817735"
+isSender="false" 
+transactionId="z9hg4bkf29d57aa4a41fe4429f636b27dc7501c" 
+callId="f029bbf0ea1094eb8e65f4ac94c04116@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: f029bbf0ea1094eb8e65f4ac94c04116@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bKf29d57aa4a41fe4429f636b27dc7501c
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5061>
+Content-Type: text/plain
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217234819719"
+isSender="false" 
+transactionId="z9hg4bkf29d57aa4a41fe4429f636b27dc7501c" 
+callId="f029bbf0ea1094eb8e65f4ac94c04116@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: f029bbf0ea1094eb8e65f4ac94c04116@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bKf29d57aa4a41fe4429f636b27dc7501c
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5061>
+Content-Type: text/plain
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217234823735"
+isSender="false" 
+transactionId="z9hg4bkf29d57aa4a41fe4429f636b27dc7501c" 
+callId="f029bbf0ea1094eb8e65f4ac94c04116@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: f029bbf0ea1094eb8e65f4ac94c04116@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bKf29d57aa4a41fe4429f636b27dc7501c
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5061>
+Content-Type: text/plain
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.188.75
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217234966438"
+isSender="false" 
+transactionId="z9hg4bk5f24322b11f1e87e2d072d001c4352d8" 
+callId="90d5b4eb758b6e5f274c3bbb5e079b27@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 90d5b4eb758b6e5f274c3bbb5e079b27@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK5f24322b11f1e87e2d072d001c4352d8
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5061>
+Content-Type: text/plain
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217234966922"
+isSender="false" 
+transactionId="z9hg4bk5f24322b11f1e87e2d072d001c4352d8" 
+callId="90d5b4eb758b6e5f274c3bbb5e079b27@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 90d5b4eb758b6e5f274c3bbb5e079b27@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK5f24322b11f1e87e2d072d001c4352d8
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5061>
+Content-Type: text/plain
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217234967907"
+isSender="false" 
+transactionId="z9hg4bk5f24322b11f1e87e2d072d001c4352d8" 
+callId="90d5b4eb758b6e5f274c3bbb5e079b27@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 90d5b4eb758b6e5f274c3bbb5e079b27@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK5f24322b11f1e87e2d072d001c4352d8
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5061>
+Content-Type: text/plain
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217234969922"
+isSender="false" 
+transactionId="z9hg4bk5f24322b11f1e87e2d072d001c4352d8" 
+callId="90d5b4eb758b6e5f274c3bbb5e079b27@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 90d5b4eb758b6e5f274c3bbb5e079b27@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK5f24322b11f1e87e2d072d001c4352d8
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5061>
+Content-Type: text/plain
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.188.75
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217234999579"
+isSender="false" 
+transactionId="z9hg4bk961f27deac1f1854425849e5344039c2" 
+callId="5241af555742ff614f7de764eac449c0@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 5241af555742ff614f7de764eac449c0@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK961f27deac1f1854425849e5344039c2
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5061>
+Content-Type: text/plain
+Content-Length: 1
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5061" 
+time="1217234999969"
+isSender="true" 
+transactionId="z9hg4bk961f27deac1f1854425849e5344039c2" 
+callId="5241af555742ff614f7de764eac449c0@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 5241af555742ff614f7de764eac449c0@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK961f27deac1f1854425849e5344039c2
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217235000219"
+isSender="false" 
+transactionId="z9hg4bk961f27deac1f1854425849e5344039c2" 
+callId="5241af555742ff614f7de764eac449c0@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 5241af555742ff614f7de764eac449c0@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK961f27deac1f1854425849e5344039c2
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5061>
+Content-Type: text/plain
+Content-Length: 1
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5061" 
+time="1217235000219"
+isSender="true" 
+transactionId="z9hg4bk961f27deac1f1854425849e5344039c2" 
+callId="5241af555742ff614f7de764eac449c0@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 5241af555742ff614f7de764eac449c0@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK961f27deac1f1854425849e5344039c2
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.188.75
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217485776546"
+isSender="false" 
+transactionId="z9hg4bk5de869f33012d726bed7c2ebe1152f05" 
+callId="4af4a6522d8da6df2590aa80fbbaa45d@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 4af4a6522d8da6df2590aa80fbbaa45d@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK5de869f33012d726bed7c2ebe1152f05
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5061>
+Content-Type: text/plain
+Content-Length: 23
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5061" 
+time="1217485776968"
+isSender="true" 
+transactionId="z9hg4bk5de869f33012d726bed7c2ebe1152f05" 
+callId="4af4a6522d8da6df2590aa80fbbaa45d@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 4af4a6522d8da6df2590aa80fbbaa45d@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK5de869f33012d726bed7c2ebe1152f05
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217485777140"
+isSender="false" 
+transactionId="z9hg4bk5de869f33012d726bed7c2ebe1152f05" 
+callId="4af4a6522d8da6df2590aa80fbbaa45d@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 4af4a6522d8da6df2590aa80fbbaa45d@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK5de869f33012d726bed7c2ebe1152f05
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5061>
+Content-Type: text/plain
+Content-Length: 23
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5061" 
+time="1217485777156"
+isSender="true" 
+transactionId="z9hg4bk5de869f33012d726bed7c2ebe1152f05" 
+callId="4af4a6522d8da6df2590aa80fbbaa45d@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 4af4a6522d8da6df2590aa80fbbaa45d@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK5de869f33012d726bed7c2ebe1152f05
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217485835375"
+isSender="false" 
+transactionId="z9hg4bk6aab0d8d16777573de8843aa24cfcec4" 
+callId="d6cc5a18fe4630c79e8d8888f9cb7b6c@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: d6cc5a18fe4630c79e8d8888f9cb7b6c@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK6aab0d8d16777573de8843aa24cfcec4
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5061>
+Content-Type: text/plain
+Content-Length: 19
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5061" 
+time="1217485835437"
+isSender="true" 
+transactionId="z9hg4bk6aab0d8d16777573de8843aa24cfcec4" 
+callId="d6cc5a18fe4630c79e8d8888f9cb7b6c@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: d6cc5a18fe4630c79e8d8888f9cb7b6c@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK6aab0d8d16777573de8843aa24cfcec4
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.188.75
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217486158046"
+isSender="false" 
+transactionId="z9hg4bk3029d39d96320701e49a22c3037b8183" 
+callId="d8cea0be01b98fefeaeb1ed72857bf82@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: d8cea0be01b98fefeaeb1ed72857bf82@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK3029d39d96320701e49a22c3037b8183
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5061>
+Content-Type: text/plain
+Content-Length: 19
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5061" 
+time="1217486158421"
+isSender="true" 
+transactionId="z9hg4bk3029d39d96320701e49a22c3037b8183" 
+callId="d8cea0be01b98fefeaeb1ed72857bf82@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: d8cea0be01b98fefeaeb1ed72857bf82@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK3029d39d96320701e49a22c3037b8183
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.188.75
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217486403093"
+isSender="false" 
+transactionId="z9hg4bkd4cef663a1164192a24c991227dff1bf" 
+callId="cfa930d37e74c721f70f5ae52d3bc802@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: cfa930d37e74c721f70f5ae52d3bc802@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bKd4cef663a1164192a24c991227dff1bf
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5061>
+Content-Type: text/plain
+Content-Length: 19
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5061" 
+time="1217486403484"
+isSender="true" 
+transactionId="z9hg4bkd4cef663a1164192a24c991227dff1bf" 
+callId="cfa930d37e74c721f70f5ae52d3bc802@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: cfa930d37e74c721f70f5ae52d3bc802@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bKd4cef663a1164192a24c991227dff1bf
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.188.75
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217486483375"
+isSender="false" 
+transactionId="z9hg4bk0be8553a2a8ed19f561388b88f656193" 
+callId="72d3bcabbd53732c187f718226a6db01@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 72d3bcabbd53732c187f718226a6db01@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK0be8553a2a8ed19f561388b88f656193
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5061>
+Content-Type: text/plain
+Content-Length: 19
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5061" 
+time="1217486483781"
+isSender="true" 
+transactionId="z9hg4bk0be8553a2a8ed19f561388b88f656193" 
+callId="72d3bcabbd53732c187f718226a6db01@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 72d3bcabbd53732c187f718226a6db01@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK0be8553a2a8ed19f561388b88f656193
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.188.75
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217507304093"
+isSender="false" 
+transactionId="z9hg4bkbf062fe3d8b117a229cee48d91f87c56" 
+callId="07259d02d8419c7398cb26830d3c675c@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 07259d02d8419c7398cb26830d3c675c@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bKbf062fe3d8b117a229cee48d91f87c56
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5061>
+Content-Type: text/plain
+Content-Length: 19
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217507303671"
+isSender="false" 
+transactionId="z9hg4bkbf062fe3d8b117a229cee48d91f87c56" 
+callId="07259d02d8419c7398cb26830d3c675c@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 07259d02d8419c7398cb26830d3c675c@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bKbf062fe3d8b117a229cee48d91f87c56
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5061>
+Content-Type: text/plain
+Content-Length: 19
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5061" 
+time="1217507304484"
+isSender="true" 
+transactionId="z9hg4bkbf062fe3d8b117a229cee48d91f87c56" 
+callId="07259d02d8419c7398cb26830d3c675c@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 07259d02d8419c7398cb26830d3c675c@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bKbf062fe3d8b117a229cee48d91f87c56
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217507304718"
+isSender="false" 
+transactionId="z9hg4bkbf062fe3d8b117a229cee48d91f87c56" 
+callId="07259d02d8419c7398cb26830d3c675c@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 07259d02d8419c7398cb26830d3c675c@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bKbf062fe3d8b117a229cee48d91f87c56
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5061>
+Content-Type: text/plain
+Content-Length: 19
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5061" 
+time="1217507304765"
+isSender="true" 
+transactionId="z9hg4bkbf062fe3d8b117a229cee48d91f87c56" 
+callId="07259d02d8419c7398cb26830d3c675c@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 07259d02d8419c7398cb26830d3c675c@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bKbf062fe3d8b117a229cee48d91f87c56
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.188.75
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217507378109"
+isSender="false" 
+transactionId="z9hg4bk8c14eeaa655ea16aa192ccbe481db24e" 
+callId="945758ad321b417f01b897c6ce465b36@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 945758ad321b417f01b897c6ce465b36@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK8c14eeaa655ea16aa192ccbe481db24e
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5061>
+Content-Type: text/plain
+Content-Length: 19
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217507378562"
+isSender="false" 
+transactionId="z9hg4bk8c14eeaa655ea16aa192ccbe481db24e" 
+callId="945758ad321b417f01b897c6ce465b36@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 945758ad321b417f01b897c6ce465b36@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK8c14eeaa655ea16aa192ccbe481db24e
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5061>
+Content-Type: text/plain
+Content-Length: 19
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5061" 
+time="1217507378578"
+isSender="true" 
+transactionId="z9hg4bk8c14eeaa655ea16aa192ccbe481db24e" 
+callId="945758ad321b417f01b897c6ce465b36@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 945758ad321b417f01b897c6ce465b36@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK8c14eeaa655ea16aa192ccbe481db24e
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5061" 
+time="1217507378578"
+isSender="true" 
+transactionId="z9hg4bk8c14eeaa655ea16aa192ccbe481db24e" 
+callId="945758ad321b417f01b897c6ce465b36@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 945758ad321b417f01b897c6ce465b36@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK8c14eeaa655ea16aa192ccbe481db24e
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.188.75
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217685943546"
+isSender="false" 
+transactionId="z9hg4bkdcc32eea77a4c6b6090b09fd1f1a5f35" 
+callId="b522b8295bd5eb030dd03ea613859032@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: b522b8295bd5eb030dd03ea613859032@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bKdcc32eea77a4c6b6090b09fd1f1a5f35
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5061>
+Content-Type: text/plain
+Content-Length: 19
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5061" 
+time="1217685944000"
+isSender="true" 
+transactionId="z9hg4bkdcc32eea77a4c6b6090b09fd1f1a5f35" 
+callId="b522b8295bd5eb030dd03ea613859032@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: b522b8295bd5eb030dd03ea613859032@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bKdcc32eea77a4c6b6090b09fd1f1a5f35
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217685944312"
+isSender="false" 
+transactionId="z9hg4bkdcc32eea77a4c6b6090b09fd1f1a5f35" 
+callId="b522b8295bd5eb030dd03ea613859032@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: b522b8295bd5eb030dd03ea613859032@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bKdcc32eea77a4c6b6090b09fd1f1a5f35
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5061>
+Content-Type: text/plain
+Content-Length: 19
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5061" 
+time="1217685944312"
+isSender="true" 
+transactionId="z9hg4bkdcc32eea77a4c6b6090b09fd1f1a5f35" 
+callId="b522b8295bd5eb030dd03ea613859032@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: b522b8295bd5eb030dd03ea613859032@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bKdcc32eea77a4c6b6090b09fd1f1a5f35
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.188.75
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217686271125"
+isSender="false" 
+transactionId="z9hg4bkf79a56b7fa6dbc87768c7fa9416ca073" 
+callId="3f542d08ec3613624ece75b3858abf84@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 3f542d08ec3613624ece75b3858abf84@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bKf79a56b7fa6dbc87768c7fa9416ca073
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5061>
+Content-Type: text/plain
+Content-Length: 19
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5061" 
+time="1217686271531"
+isSender="true" 
+transactionId="z9hg4bkf79a56b7fa6dbc87768c7fa9416ca073" 
+callId="3f542d08ec3613624ece75b3858abf84@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 3f542d08ec3613624ece75b3858abf84@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bKf79a56b7fa6dbc87768c7fa9416ca073
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.188.75
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217686318859"
+isSender="false" 
+transactionId="z9hg4bk0c1bdd8069a38879eda6b11d16e32436" 
+callId="059d50dd80ba0a80e1d6565b5149dd9f@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 059d50dd80ba0a80e1d6565b5149dd9f@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK0c1bdd8069a38879eda6b11d16e32436
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5061>
+Content-Type: text/plain
+Content-Length: 19
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5061" 
+time="1217686319265"
+isSender="true" 
+transactionId="z9hg4bk0c1bdd8069a38879eda6b11d16e32436" 
+callId="059d50dd80ba0a80e1d6565b5149dd9f@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 059d50dd80ba0a80e1d6565b5149dd9f@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK0c1bdd8069a38879eda6b11d16e32436
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.188.75
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217686477687"
+isSender="false" 
+transactionId="z9hg4bke02155f253ffec33bd2f1594c3c9eeda" 
+callId="270fc1843b532aeda9235aea0f5a7d3b@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 270fc1843b532aeda9235aea0f5a7d3b@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bKe02155f253ffec33bd2f1594c3c9eeda
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5061>
+Content-Type: text/plain
+Content-Length: 19
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5061" 
+time="1217686478093"
+isSender="true" 
+transactionId="z9hg4bke02155f253ffec33bd2f1594c3c9eeda" 
+callId="270fc1843b532aeda9235aea0f5a7d3b@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 270fc1843b532aeda9235aea0f5a7d3b@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bKe02155f253ffec33bd2f1594c3c9eeda
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.188.75
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217686978515"
+isSender="false" 
+transactionId="z9hg4bkc5c9b27f71101c0ef197dc02dae3b54d" 
+callId="c0e786477f9b1b7daf9cab01d89aaaf8@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: c0e786477f9b1b7daf9cab01d89aaaf8@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bKc5c9b27f71101c0ef197dc02dae3b54d
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5061>
+Content-Type: text/plain
+Content-Length: 30
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217686979000"
+isSender="false" 
+transactionId="z9hg4bkc5c9b27f71101c0ef197dc02dae3b54d" 
+callId="c0e786477f9b1b7daf9cab01d89aaaf8@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: c0e786477f9b1b7daf9cab01d89aaaf8@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bKc5c9b27f71101c0ef197dc02dae3b54d
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5061>
+Content-Type: text/plain
+Content-Length: 30
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217686979984"
+isSender="false" 
+transactionId="z9hg4bkc5c9b27f71101c0ef197dc02dae3b54d" 
+callId="c0e786477f9b1b7daf9cab01d89aaaf8@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: c0e786477f9b1b7daf9cab01d89aaaf8@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bKc5c9b27f71101c0ef197dc02dae3b54d
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5061>
+Content-Type: text/plain
+Content-Length: 30
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217686982000"
+isSender="false" 
+transactionId="z9hg4bkc5c9b27f71101c0ef197dc02dae3b54d" 
+callId="c0e786477f9b1b7daf9cab01d89aaaf8@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: c0e786477f9b1b7daf9cab01d89aaaf8@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bKc5c9b27f71101c0ef197dc02dae3b54d
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5061>
+Content-Type: text/plain
+Content-Length: 30
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.188.75
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217687040250"
+isSender="false" 
+transactionId="z9hg4bka1a745391cd4b57c35261cbb778c19d6" 
+callId="9f9655cbffa8caf134b35b502930f0bf@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 9f9655cbffa8caf134b35b502930f0bf@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bKa1a745391cd4b57c35261cbb778c19d6
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5061>
+Content-Type: text/plain
+Content-Length: 30
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5061" 
+time="1217687040656"
+isSender="true" 
+transactionId="z9hg4bka1a745391cd4b57c35261cbb778c19d6" 
+callId="9f9655cbffa8caf134b35b502930f0bf@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 9f9655cbffa8caf134b35b502930f0bf@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bKa1a745391cd4b57c35261cbb778c19d6
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217687040859"
+isSender="false" 
+transactionId="z9hg4bka1a745391cd4b57c35261cbb778c19d6" 
+callId="9f9655cbffa8caf134b35b502930f0bf@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 9f9655cbffa8caf134b35b502930f0bf@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bKa1a745391cd4b57c35261cbb778c19d6
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5061>
+Content-Type: text/plain
+Content-Length: 30
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5061" 
+time="1217687040859"
+isSender="true" 
+transactionId="z9hg4bka1a745391cd4b57c35261cbb778c19d6" 
+callId="9f9655cbffa8caf134b35b502930f0bf@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 9f9655cbffa8caf134b35b502930f0bf@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bKa1a745391cd4b57c35261cbb778c19d6
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.188.75
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.188.75
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217687222125"
+isSender="false" 
+transactionId="z9hg4bk2dccf2b3538b886ebbc7ca22acd854ad" 
+callId="df4b597cdf8ca82eaaadb24323eaeeec@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: df4b597cdf8ca82eaaadb24323eaeeec@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK2dccf2b3538b886ebbc7ca22acd854ad
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5061>
+Content-Type: text/plain
+Content-Length: 30
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5061" 
+time="1217687222515"
+isSender="true" 
+transactionId="z9hg4bk2dccf2b3538b886ebbc7ca22acd854ad" 
+callId="df4b597cdf8ca82eaaadb24323eaeeec@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: df4b597cdf8ca82eaaadb24323eaeeec@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK2dccf2b3538b886ebbc7ca22acd854ad
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.188.75
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217687359687"
+isSender="false" 
+transactionId="z9hg4bk6655cfb9bd7810dfad59b4441ffe8a20" 
+callId="0356aebd000b39e0e3689ec933574d89@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 0356aebd000b39e0e3689ec933574d89@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK6655cfb9bd7810dfad59b4441ffe8a20
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5061>
+Content-Type: text/plain
+Content-Length: 30
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5061" 
+time="1217687360062"
+isSender="true" 
+transactionId="z9hg4bk6655cfb9bd7810dfad59b4441ffe8a20" 
+callId="0356aebd000b39e0e3689ec933574d89@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 0356aebd000b39e0e3689ec933574d89@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK6655cfb9bd7810dfad59b4441ffe8a20
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.188.75
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217688717375"
+isSender="false" 
+transactionId="z9hg4bkd3b59c7fa21b3fb245fe8e9ffe2e27a7" 
+callId="5df8ae2803b7ee3377b87a05cc720764@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 5df8ae2803b7ee3377b87a05cc720764@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bKd3b59c7fa21b3fb245fe8e9ffe2e27a7
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5061>
+Content-Type: text/plain
+Content-Length: 30
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5061" 
+time="1217688717765"
+isSender="true" 
+transactionId="z9hg4bkd3b59c7fa21b3fb245fe8e9ffe2e27a7" 
+callId="5df8ae2803b7ee3377b87a05cc720764@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 5df8ae2803b7ee3377b87a05cc720764@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bKd3b59c7fa21b3fb245fe8e9ffe2e27a7
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.188.75
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217688776062"
+isSender="false" 
+transactionId="z9hg4bk12025ad726ffb71b6300a9e84029d110" 
+callId="56fcd89e9b5c4cfd57ae037473ae68b5@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 56fcd89e9b5c4cfd57ae037473ae68b5@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK12025ad726ffb71b6300a9e84029d110
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5061>
+Content-Type: text/plain
+Content-Length: 30
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5061" 
+time="1217688776468"
+isSender="true" 
+transactionId="z9hg4bk12025ad726ffb71b6300a9e84029d110" 
+callId="56fcd89e9b5c4cfd57ae037473ae68b5@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 56fcd89e9b5c4cfd57ae037473ae68b5@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK12025ad726ffb71b6300a9e84029d110
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.188.75
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217829742623"
+isSender="false" 
+transactionId="z9hg4bkb66eb2640b17e685d13def2262b4949a" 
+callId="cc410351e9232b5a1005cca75fc47832@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: cc410351e9232b5a1005cca75fc47832@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bKb66eb2640b17e685d13def2262b4949a
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5061>
+Content-Type: text/plain
+Content-Length: 30
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5061" 
+time="1217829743045"
+isSender="true" 
+transactionId="z9hg4bkb66eb2640b17e685d13def2262b4949a" 
+callId="cc410351e9232b5a1005cca75fc47832@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: cc410351e9232b5a1005cca75fc47832@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bKb66eb2640b17e685d13def2262b4949a
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217829743264"
+isSender="false" 
+transactionId="z9hg4bkb66eb2640b17e685d13def2262b4949a" 
+callId="cc410351e9232b5a1005cca75fc47832@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: cc410351e9232b5a1005cca75fc47832@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bKb66eb2640b17e685d13def2262b4949a
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5061>
+Content-Type: text/plain
+Content-Length: 30
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5061" 
+time="1217829743264"
+isSender="true" 
+transactionId="z9hg4bkb66eb2640b17e685d13def2262b4949a" 
+callId="cc410351e9232b5a1005cca75fc47832@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: cc410351e9232b5a1005cca75fc47832@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bKb66eb2640b17e685d13def2262b4949a
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.188.75
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217830425217"
+isSender="false" 
+transactionId="z9hg4bkd5946831da794ac8389b55d992392dab" 
+callId="2e023c9b5a6bdbcedb419a7ccc6ca00b@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 2e023c9b5a6bdbcedb419a7ccc6ca00b@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bKd5946831da794ac8389b55d992392dab
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5061>
+Content-Type: text/plain
+Content-Length: 30
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5061" 
+time="1217830425592"
+isSender="true" 
+transactionId="z9hg4bkd5946831da794ac8389b55d992392dab" 
+callId="2e023c9b5a6bdbcedb419a7ccc6ca00b@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 2e023c9b5a6bdbcedb419a7ccc6ca00b@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bKd5946831da794ac8389b55d992392dab
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5071" 
+to="192.168.188.75:5065" 
+time="1217830428795"
+isSender="false" 
+transactionId="z9hg4bk040c57f3a6b8d41a2b6d50c6e0b9568b" 
+callId="0adb761dc016a1bf090383b48dca5bf3@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 0adb761dc016a1bf090383b48dca5bf3@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5071>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5071;branch=z9hG4bK040c57f3a6b8d41a2b6d50c6e0b9568b
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5071>
+Content-Type: text/plain
+Content-Length: 30
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5071" 
+time="1217830428811"
+isSender="true" 
+transactionId="z9hg4bk040c57f3a6b8d41a2b6d50c6e0b9568b" 
+callId="0adb761dc016a1bf090383b48dca5bf3@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 0adb761dc016a1bf090383b48dca5bf3@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5071>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5071;branch=z9hG4bK040c57f3a6b8d41a2b6d50c6e0b9568b
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.188.75
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217831040420"
+isSender="false" 
+transactionId="z9hg4bk355c164f3a3fb59fe548fc65f375736d" 
+callId="5daf098cf47a16cfb759b386293ffc86@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 5daf098cf47a16cfb759b386293ffc86@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK355c164f3a3fb59fe548fc65f375736d
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5061>
+Content-Type: text/plain
+Content-Length: 30
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5061" 
+time="1217831040795"
+isSender="true" 
+transactionId="z9hg4bk355c164f3a3fb59fe548fc65f375736d" 
+callId="5daf098cf47a16cfb759b386293ffc86@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 5daf098cf47a16cfb759b386293ffc86@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK355c164f3a3fb59fe548fc65f375736d
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5071" 
+to="192.168.188.75:5065" 
+time="1217831044092"
+isSender="false" 
+transactionId="z9hg4bke32cb44fc183acb5e797ba848fe5fa1d" 
+callId="5db294b666e81f084de62e2b8d608176@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 5db294b666e81f084de62e2b8d608176@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5071>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5071;branch=z9hG4bKe32cb44fc183acb5e797ba848fe5fa1d
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5071>
+Content-Type: text/plain
+Content-Length: 30
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5071" 
+time="1217831044107"
+isSender="true" 
+transactionId="z9hg4bke32cb44fc183acb5e797ba848fe5fa1d" 
+callId="5db294b666e81f084de62e2b8d608176@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 5db294b666e81f084de62e2b8d608176@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5071>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5071;branch=z9hG4bKe32cb44fc183acb5e797ba848fe5fa1d
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5072" 
+to="192.168.188.75:5065" 
+time="1217831105904"
+isSender="false" 
+transactionId="z9hg4bk7e6a1e37fe9a7eb6907ec21c40d308f5" 
+callId="7a14611fe15b87c828ea727b2fc59f69@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 7a14611fe15b87c828ea727b2fc59f69@192.168.188.75
+CSeq: 1 REGISTER
+From: "s72" <sip:s72@192.168.188.75:5072>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5072;branch=z9hG4bK7e6a1e37fe9a7eb6907ec21c40d308f5
+Max-Forwards: 70
+Contact: "s72" <sip:s72@192.168.188.75:5072>
+Content-Type: text/plain
+Content-Length: 30
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5072" 
+time="1217831105967"
+isSender="true" 
+transactionId="z9hg4bk7e6a1e37fe9a7eb6907ec21c40d308f5" 
+callId="7a14611fe15b87c828ea727b2fc59f69@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 7a14611fe15b87c828ea727b2fc59f69@192.168.188.75
+CSeq: 1 REGISTER
+From: "s72" <sip:s72@192.168.188.75:5072>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5072;branch=z9hG4bK7e6a1e37fe9a7eb6907ec21c40d308f5
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.188.75
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217831827404"
+isSender="false" 
+transactionId="z9hg4bke8ced1833af0a7703b9cc710713ca03e" 
+callId="2f26e3519a62f5e0d49d9426327eebd4@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 2f26e3519a62f5e0d49d9426327eebd4@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bKe8ced1833af0a7703b9cc710713ca03e
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5061>
+Content-Type: text/plain
+Content-Length: 30
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5061" 
+time="1217831827795"
+isSender="true" 
+transactionId="z9hg4bke8ced1833af0a7703b9cc710713ca03e" 
+callId="2f26e3519a62f5e0d49d9426327eebd4@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 2f26e3519a62f5e0d49d9426327eebd4@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bKe8ced1833af0a7703b9cc710713ca03e
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5072" 
+to="192.168.188.75:5065" 
+time="1217831832186"
+isSender="false" 
+transactionId="z9hg4bk93e4b80993a1d30251e86666cd32af40" 
+callId="d68f896aa29304af3f591693ed96a2e7@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: d68f896aa29304af3f591693ed96a2e7@192.168.188.75
+CSeq: 1 REGISTER
+From: "s72" <sip:s72@192.168.188.75:5072>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5072;branch=z9hG4bK93e4b80993a1d30251e86666cd32af40
+Max-Forwards: 70
+Contact: "s72" <sip:s72@192.168.188.75:5072>
+Content-Type: text/plain
+Content-Length: 30
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5072" 
+time="1217831832201"
+isSender="true" 
+transactionId="z9hg4bk93e4b80993a1d30251e86666cd32af40" 
+callId="d68f896aa29304af3f591693ed96a2e7@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: d68f896aa29304af3f591693ed96a2e7@192.168.188.75
+CSeq: 1 REGISTER
+From: "s72" <sip:s72@192.168.188.75:5072>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5072;branch=z9hG4bK93e4b80993a1d30251e86666cd32af40
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.188.75
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<message
+from="192.168.188.75:5063" 
+to="192.168.188.75:5065" 
+time="1217833155561"
+isSender="false" 
+transactionId="z9hg4bk0a5db9cfc7fa47a765ddec03bcbc956d" 
+callId="9a81cadb3c1a9a29619eb8f36d46587b@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 9a81cadb3c1a9a29619eb8f36d46587b@192.168.188.75
+CSeq: 1 REGISTER
+From: "s3" <sip:s3@192.168.188.75:5063>;tag=WatcherClient
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5063;branch=z9hG4bK0a5db9cfc7fa47a765ddec03bcbc956d
+Max-Forwards: 70
+Contact: "s3" <sip:s3@192.168.188.75:5063>
+Content-Type: text/plain
+Content-Length: 27
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5063" 
+time="1217833155982"
+isSender="true" 
+transactionId="z9hg4bk0a5db9cfc7fa47a765ddec03bcbc956d" 
+callId="9a81cadb3c1a9a29619eb8f36d46587b@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 9a81cadb3c1a9a29619eb8f36d46587b@192.168.188.75
+CSeq: 1 REGISTER
+From: "s3" <sip:s3@192.168.188.75:5063>;tag=WatcherClient
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5063;branch=z9hG4bK0a5db9cfc7fa47a765ddec03bcbc956d
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5063" 
+to="192.168.188.75:5065" 
+time="1217833156186"
+isSender="false" 
+transactionId="z9hg4bk0a5db9cfc7fa47a765ddec03bcbc956d" 
+callId="9a81cadb3c1a9a29619eb8f36d46587b@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 9a81cadb3c1a9a29619eb8f36d46587b@192.168.188.75
+CSeq: 1 REGISTER
+From: "s3" <sip:s3@192.168.188.75:5063>;tag=WatcherClient
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5063;branch=z9hG4bK0a5db9cfc7fa47a765ddec03bcbc956d
+Max-Forwards: 70
+Contact: "s3" <sip:s3@192.168.188.75:5063>
+Content-Type: text/plain
+Content-Length: 27
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5063" 
+time="1217833156201"
+isSender="true" 
+transactionId="z9hg4bk0a5db9cfc7fa47a765ddec03bcbc956d" 
+callId="9a81cadb3c1a9a29619eb8f36d46587b@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 9a81cadb3c1a9a29619eb8f36d46587b@192.168.188.75
+CSeq: 1 REGISTER
+From: "s3" <sip:s3@192.168.188.75:5063>;tag=WatcherClient
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5063;branch=z9hG4bK0a5db9cfc7fa47a765ddec03bcbc956d
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.188.75
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217835097436"
+isSender="false" 
+transactionId="z9hg4bk94bfd80e36e72e8871e5fb1ad6227625" 
+callId="ba71d46c5bf525287e5cadb3b4865845@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: ba71d46c5bf525287e5cadb3b4865845@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK94bfd80e36e72e8871e5fb1ad6227625
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5061>
+Content-Type: text/plain
+Content-Length: 30
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217835096701"
+isSender="false" 
+transactionId="z9hg4bk94bfd80e36e72e8871e5fb1ad6227625" 
+callId="ba71d46c5bf525287e5cadb3b4865845@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: ba71d46c5bf525287e5cadb3b4865845@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK94bfd80e36e72e8871e5fb1ad6227625
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5061>
+Content-Type: text/plain
+Content-Length: 30
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5061" 
+time="1217835097717"
+isSender="true" 
+transactionId="z9hg4bk94bfd80e36e72e8871e5fb1ad6227625" 
+callId="ba71d46c5bf525287e5cadb3b4865845@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: ba71d46c5bf525287e5cadb3b4865845@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK94bfd80e36e72e8871e5fb1ad6227625
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217835098170"
+isSender="false" 
+transactionId="z9hg4bk94bfd80e36e72e8871e5fb1ad6227625" 
+callId="ba71d46c5bf525287e5cadb3b4865845@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: ba71d46c5bf525287e5cadb3b4865845@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK94bfd80e36e72e8871e5fb1ad6227625
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5061>
+Content-Type: text/plain
+Content-Length: 30
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5061" 
+time="1217835098201"
+isSender="true" 
+transactionId="z9hg4bk94bfd80e36e72e8871e5fb1ad6227625" 
+callId="ba71d46c5bf525287e5cadb3b4865845@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: ba71d46c5bf525287e5cadb3b4865845@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK94bfd80e36e72e8871e5fb1ad6227625
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5072" 
+to="192.168.188.75:5065" 
+time="1217835105654"
+isSender="false" 
+transactionId="z9hg4bk3d98fb5379700739490d532f1e7cc646" 
+callId="962271d21289ab29cf381310804329ba@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 962271d21289ab29cf381310804329ba@192.168.188.75
+CSeq: 1 REGISTER
+From: "s72" <sip:s72@192.168.188.75:5072>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5072;branch=z9hG4bK3d98fb5379700739490d532f1e7cc646
+Max-Forwards: 70
+Contact: "s72" <sip:s72@192.168.188.75:5072>
+Content-Type: text/plain
+Content-Length: 30
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5072" 
+time="1217835105686"
+isSender="true" 
+transactionId="z9hg4bk3d98fb5379700739490d532f1e7cc646" 
+callId="962271d21289ab29cf381310804329ba@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 962271d21289ab29cf381310804329ba@192.168.188.75
+CSeq: 1 REGISTER
+From: "s72" <sip:s72@192.168.188.75:5072>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5072;branch=z9hG4bK3d98fb5379700739490d532f1e7cc646
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5072" 
+to="192.168.188.75:5065" 
+time="1217835106873"
+isSender="false" 
+transactionId="z9hg4bk3d98fb5379700739490d532f1e7cc646" 
+callId="962271d21289ab29cf381310804329ba@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 962271d21289ab29cf381310804329ba@192.168.188.75
+CSeq: 1 REGISTER
+From: "s72" <sip:s72@192.168.188.75:5072>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5072;branch=z9hG4bK3d98fb5379700739490d532f1e7cc646
+Max-Forwards: 70
+Contact: "s72" <sip:s72@192.168.188.75:5072>
+Content-Type: text/plain
+Content-Length: 30
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5072" 
+time="1217835106889"
+isSender="true" 
+transactionId="z9hg4bk3d98fb5379700739490d532f1e7cc646" 
+callId="962271d21289ab29cf381310804329ba@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 962271d21289ab29cf381310804329ba@192.168.188.75
+CSeq: 1 REGISTER
+From: "s72" <sip:s72@192.168.188.75:5072>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5072;branch=z9hG4bK3d98fb5379700739490d532f1e7cc646
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5063" 
+to="192.168.188.75:5065" 
+time="1217835141404"
+isSender="false" 
+transactionId="z9hg4bked3cfa157e0730ffb1242098c27a1488" 
+callId="ae5fed25be18dcb10612a7bc6ddfa01c@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: ae5fed25be18dcb10612a7bc6ddfa01c@192.168.188.75
+CSeq: 1 REGISTER
+From: "s3" <sip:s3@192.168.188.75:5063>;tag=WatcherClient
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5063;branch=z9hG4bKed3cfa157e0730ffb1242098c27a1488
+Max-Forwards: 70
+Contact: "s3" <sip:s3@192.168.188.75:5063>
+Content-Type: text/plain
+Content-Length: 27
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5063" 
+time="1217835141420"
+isSender="true" 
+transactionId="z9hg4bked3cfa157e0730ffb1242098c27a1488" 
+callId="ae5fed25be18dcb10612a7bc6ddfa01c@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: ae5fed25be18dcb10612a7bc6ddfa01c@192.168.188.75
+CSeq: 1 REGISTER
+From: "s3" <sip:s3@192.168.188.75:5063>;tag=WatcherClient
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5063;branch=z9hG4bKed3cfa157e0730ffb1242098c27a1488
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.188.75
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<message
+from="192.168.188.75:5072" 
+to="192.168.188.75:5065" 
+time="1217835279920"
+isSender="false" 
+transactionId="z9hg4bk92b4c4408fe5d2832ab2a7e289131652" 
+callId="718974c115fbe724b97b584f56e28801@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 718974c115fbe724b97b584f56e28801@192.168.188.75
+CSeq: 1 REGISTER
+From: "s72" <sip:s72@192.168.188.75:5072>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5072;branch=z9hG4bK92b4c4408fe5d2832ab2a7e289131652
+Max-Forwards: 70
+Contact: "s72" <sip:s72@192.168.188.75:5072>
+Content-Type: text/plain
+Content-Length: 30
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5072" 
+time="1217835280311"
+isSender="true" 
+transactionId="z9hg4bk92b4c4408fe5d2832ab2a7e289131652" 
+callId="718974c115fbe724b97b584f56e28801@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 718974c115fbe724b97b584f56e28801@192.168.188.75
+CSeq: 1 REGISTER
+From: "s72" <sip:s72@192.168.188.75:5072>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5072;branch=z9hG4bK92b4c4408fe5d2832ab2a7e289131652
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5063" 
+to="192.168.188.75:5065" 
+time="1217835284357"
+isSender="false" 
+transactionId="z9hg4bk29b78f575163a2619f2768f277436a29" 
+callId="999995761600026a6e8232a005de767e@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 999995761600026a6e8232a005de767e@192.168.188.75
+CSeq: 1 REGISTER
+From: "s3" <sip:s3@192.168.188.75:5063>;tag=WatcherClient
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5063;branch=z9hG4bK29b78f575163a2619f2768f277436a29
+Max-Forwards: 70
+Contact: "s3" <sip:s3@192.168.188.75:5063>
+Content-Type: text/plain
+Content-Length: 27
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5063" 
+time="1217835284373"
+isSender="true" 
+transactionId="z9hg4bk29b78f575163a2619f2768f277436a29" 
+callId="999995761600026a6e8232a005de767e@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 999995761600026a6e8232a005de767e@192.168.188.75
+CSeq: 1 REGISTER
+From: "s3" <sip:s3@192.168.188.75:5063>;tag=WatcherClient
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5063;branch=z9hG4bK29b78f575163a2619f2768f277436a29
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.188.75
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<message
+from="192.168.188.75:5072" 
+to="192.168.188.75:5065" 
+time="1217835685248"
+isSender="false" 
+transactionId="z9hg4bk2fe5dc506fc2f5c04674142dc22bcc7c" 
+callId="b7ccde1f27bf6624710df8440ca1922e@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: b7ccde1f27bf6624710df8440ca1922e@192.168.188.75
+CSeq: 1 REGISTER
+From: "s72" <sip:s72@192.168.188.75:5072>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5072;branch=z9hG4bK2fe5dc506fc2f5c04674142dc22bcc7c
+Max-Forwards: 70
+Contact: "s72" <sip:s72@192.168.188.75:5072>
+Content-Type: text/plain
+Content-Length: 30
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5072" 
+time="1217835685623"
+isSender="true" 
+transactionId="z9hg4bk2fe5dc506fc2f5c04674142dc22bcc7c" 
+callId="b7ccde1f27bf6624710df8440ca1922e@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: b7ccde1f27bf6624710df8440ca1922e@192.168.188.75
+CSeq: 1 REGISTER
+From: "s72" <sip:s72@192.168.188.75:5072>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5072;branch=z9hG4bK2fe5dc506fc2f5c04674142dc22bcc7c
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5063" 
+to="192.168.188.75:5065" 
+time="1217835698686"
+isSender="false" 
+transactionId="z9hg4bkd5fe779c07eb0feb0779236f67f584af" 
+callId="c5cc9c4c09c1c0caf94645ee02103d21@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: c5cc9c4c09c1c0caf94645ee02103d21@192.168.188.75
+CSeq: 1 REGISTER
+From: "s3" <sip:s3@192.168.188.75:5063>;tag=Client
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5063;branch=z9hG4bKd5fe779c07eb0feb0779236f67f584af
+Max-Forwards: 70
+Contact: "s3" <sip:s3@192.168.188.75:5063>
+Content-Type: text/plain
+Content-Length: 27
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5063" 
+time="1217835698701"
+isSender="true" 
+transactionId="z9hg4bkd5fe779c07eb0feb0779236f67f584af" 
+callId="c5cc9c4c09c1c0caf94645ee02103d21@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: c5cc9c4c09c1c0caf94645ee02103d21@192.168.188.75
+CSeq: 1 REGISTER
+From: "s3" <sip:s3@192.168.188.75:5063>;tag=Client
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5063;branch=z9hG4bKd5fe779c07eb0feb0779236f67f584af
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.188.75
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.188.75
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<message
+from="192.168.188.75:5072" 
+to="192.168.188.75:5065" 
+time="1217835950904"
+isSender="false" 
+transactionId="z9hg4bkbefd1d8fa1f6cb3097675f968ecd2da9" 
+callId="adcccb59a95308c9b8ce12a361dac5bd@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: adcccb59a95308c9b8ce12a361dac5bd@192.168.188.75
+CSeq: 1 REGISTER
+From: "s72" <sip:s72@192.168.188.75:5072>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5072;branch=z9hG4bKbefd1d8fa1f6cb3097675f968ecd2da9
+Max-Forwards: 70
+Contact: "s72" <sip:s72@192.168.188.75:5072>
+Content-Type: text/plain
+Content-Length: 30
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5072" 
+time="1217835951295"
+isSender="true" 
+transactionId="z9hg4bkbefd1d8fa1f6cb3097675f968ecd2da9" 
+callId="adcccb59a95308c9b8ce12a361dac5bd@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: adcccb59a95308c9b8ce12a361dac5bd@192.168.188.75
+CSeq: 1 REGISTER
+From: "s72" <sip:s72@192.168.188.75:5072>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5072;branch=z9hG4bKbefd1d8fa1f6cb3097675f968ecd2da9
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5072" 
+to="192.168.188.75:5065" 
+time="1217835951404"
+isSender="false" 
+transactionId="z9hg4bkbefd1d8fa1f6cb3097675f968ecd2da9" 
+callId="adcccb59a95308c9b8ce12a361dac5bd@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: adcccb59a95308c9b8ce12a361dac5bd@192.168.188.75
+CSeq: 1 REGISTER
+From: "s72" <sip:s72@192.168.188.75:5072>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5072;branch=z9hG4bKbefd1d8fa1f6cb3097675f968ecd2da9
+Max-Forwards: 70
+Contact: "s72" <sip:s72@192.168.188.75:5072>
+Content-Type: text/plain
+Content-Length: 30
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5072" 
+time="1217835951404"
+isSender="true" 
+transactionId="z9hg4bkbefd1d8fa1f6cb3097675f968ecd2da9" 
+callId="adcccb59a95308c9b8ce12a361dac5bd@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: adcccb59a95308c9b8ce12a361dac5bd@192.168.188.75
+CSeq: 1 REGISTER
+From: "s72" <sip:s72@192.168.188.75:5072>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5072;branch=z9hG4bKbefd1d8fa1f6cb3097675f968ecd2da9
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5063" 
+to="192.168.188.75:5065" 
+time="1217835953842"
+isSender="false" 
+transactionId="z9hg4bkf60004da2dc7f070fbc344551a38c4f0" 
+callId="3831fbe3a7e93b8e7990ab90ac36d0e4@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 3831fbe3a7e93b8e7990ab90ac36d0e4@192.168.188.75
+CSeq: 1 REGISTER
+From: "s3" <sip:s3@192.168.188.75:5063>;tag=Client
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5063;branch=z9hG4bKf60004da2dc7f070fbc344551a38c4f0
+Max-Forwards: 70
+Contact: "s3" <sip:s3@192.168.188.75:5063>
+Content-Type: text/plain
+Content-Length: 27
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5063" 
+time="1217835953889"
+isSender="true" 
+transactionId="z9hg4bkf60004da2dc7f070fbc344551a38c4f0" 
+callId="3831fbe3a7e93b8e7990ab90ac36d0e4@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 3831fbe3a7e93b8e7990ab90ac36d0e4@192.168.188.75
+CSeq: 1 REGISTER
+From: "s3" <sip:s3@192.168.188.75:5063>;tag=Client
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5063;branch=z9hG4bKf60004da2dc7f070fbc344551a38c4f0
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.188.75
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<message
+from="192.168.188.75:5072" 
+to="192.168.188.75:5065" 
+time="1217835985686"
+isSender="false" 
+transactionId="z9hg4bka2f44e93e50813828cca25f564d53fc4" 
+callId="ea66b1cef092f742b32171dd16a9e408@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: ea66b1cef092f742b32171dd16a9e408@192.168.188.75
+CSeq: 1 REGISTER
+From: "s72" <sip:s72@192.168.188.75:5072>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5072;branch=z9hG4bKa2f44e93e50813828cca25f564d53fc4
+Max-Forwards: 70
+Contact: "s72" <sip:s72@192.168.188.75:5072>
+Content-Type: text/plain
+Content-Length: 30
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5072" 
+time="1217835986061"
+isSender="true" 
+transactionId="z9hg4bka2f44e93e50813828cca25f564d53fc4" 
+callId="ea66b1cef092f742b32171dd16a9e408@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: ea66b1cef092f742b32171dd16a9e408@192.168.188.75
+CSeq: 1 REGISTER
+From: "s72" <sip:s72@192.168.188.75:5072>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5072;branch=z9hG4bKa2f44e93e50813828cca25f564d53fc4
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5072" 
+to="192.168.188.75:5065" 
+time="1217835986139"
+isSender="false" 
+transactionId="z9hg4bka2f44e93e50813828cca25f564d53fc4" 
+callId="ea66b1cef092f742b32171dd16a9e408@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: ea66b1cef092f742b32171dd16a9e408@192.168.188.75
+CSeq: 1 REGISTER
+From: "s72" <sip:s72@192.168.188.75:5072>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5072;branch=z9hG4bKa2f44e93e50813828cca25f564d53fc4
+Max-Forwards: 70
+Contact: "s72" <sip:s72@192.168.188.75:5072>
+Content-Type: text/plain
+Content-Length: 30
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5072" 
+time="1217835986139"
+isSender="true" 
+transactionId="z9hg4bka2f44e93e50813828cca25f564d53fc4" 
+callId="ea66b1cef092f742b32171dd16a9e408@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: ea66b1cef092f742b32171dd16a9e408@192.168.188.75
+CSeq: 1 REGISTER
+From: "s72" <sip:s72@192.168.188.75:5072>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5072;branch=z9hG4bKa2f44e93e50813828cca25f564d53fc4
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5063" 
+to="192.168.188.75:5065" 
+time="1217835991170"
+isSender="false" 
+transactionId="z9hg4bk3feac694b0be442ac9599467208f37ce" 
+callId="980d00c36632d1eaaec6a75f53020c1c@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 980d00c36632d1eaaec6a75f53020c1c@192.168.188.75
+CSeq: 1 REGISTER
+From: "s3" <sip:s3@192.168.188.75:5063>;tag=Client
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5063;branch=z9hG4bK3feac694b0be442ac9599467208f37ce
+Max-Forwards: 70
+Contact: "s3" <sip:s3@192.168.188.75:5063>
+Content-Type: text/plain
+Content-Length: 27
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5063" 
+time="1217835991217"
+isSender="true" 
+transactionId="z9hg4bk3feac694b0be442ac9599467208f37ce" 
+callId="980d00c36632d1eaaec6a75f53020c1c@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 980d00c36632d1eaaec6a75f53020c1c@192.168.188.75
+CSeq: 1 REGISTER
+From: "s3" <sip:s3@192.168.188.75:5063>;tag=Client
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5063;branch=z9hG4bK3feac694b0be442ac9599467208f37ce
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.188.75
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<message
+from="192.168.188.75:5072" 
+to="192.168.188.75:5065" 
+time="1217836259795"
+isSender="false" 
+transactionId="z9hg4bk37de979589758f54e9257db7ec005fdb" 
+callId="03a9e5e785ba8f811e8aa2aafac5f41a@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 03a9e5e785ba8f811e8aa2aafac5f41a@192.168.188.75
+CSeq: 1 REGISTER
+From: "s72" <sip:s72@192.168.188.75:5072>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5072;branch=z9hG4bK37de979589758f54e9257db7ec005fdb
+Max-Forwards: 70
+Contact: "s72" <sip:s72@192.168.188.75:5072>
+Content-Type: text/plain
+Content-Length: 30
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5072" 
+time="1217836260170"
+isSender="true" 
+transactionId="z9hg4bk37de979589758f54e9257db7ec005fdb" 
+callId="03a9e5e785ba8f811e8aa2aafac5f41a@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 03a9e5e785ba8f811e8aa2aafac5f41a@192.168.188.75
+CSeq: 1 REGISTER
+From: "s72" <sip:s72@192.168.188.75:5072>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5072;branch=z9hG4bK37de979589758f54e9257db7ec005fdb
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5063" 
+to="192.168.188.75:5065" 
+time="1217836263357"
+isSender="false" 
+transactionId="z9hg4bk7e1b5a29c85e0cc2b5f301d30833182b" 
+callId="881a233ae5a03ad20c300529affd3775@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 881a233ae5a03ad20c300529affd3775@192.168.188.75
+CSeq: 1 REGISTER
+From: "s3" <sip:s3@192.168.188.75:5063>;tag=Client
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5063;branch=z9hG4bK7e1b5a29c85e0cc2b5f301d30833182b
+Max-Forwards: 70
+Contact: "s3" <sip:s3@192.168.188.75:5063>
+Content-Type: text/plain
+Content-Length: 27
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5063" 
+time="1217836263389"
+isSender="true" 
+transactionId="z9hg4bk7e1b5a29c85e0cc2b5f301d30833182b" 
+callId="881a233ae5a03ad20c300529affd3775@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 881a233ae5a03ad20c300529affd3775@192.168.188.75
+CSeq: 1 REGISTER
+From: "s3" <sip:s3@192.168.188.75:5063>;tag=Client
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5063;branch=z9hG4bK7e1b5a29c85e0cc2b5f301d30833182b
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.188.75
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<message
+from="192.168.188.75:5072" 
+to="192.168.188.75:5065" 
+time="1217836336920"
+isSender="false" 
+transactionId="z9hg4bkff614cbe2b63de2ef15aad14514164e2" 
+callId="5260b2eff7428e1d8f44c7fedca67b43@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 5260b2eff7428e1d8f44c7fedca67b43@192.168.188.75
+CSeq: 1 REGISTER
+From: "s72" <sip:s72@192.168.188.75:5072>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5072;branch=z9hG4bKff614cbe2b63de2ef15aad14514164e2
+Max-Forwards: 70
+Contact: "s72" <sip:s72@192.168.188.75:5072>
+Content-Type: text/plain
+Content-Length: 30
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5072" 
+time="1217836337295"
+isSender="true" 
+transactionId="z9hg4bkff614cbe2b63de2ef15aad14514164e2" 
+callId="5260b2eff7428e1d8f44c7fedca67b43@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 5260b2eff7428e1d8f44c7fedca67b43@192.168.188.75
+CSeq: 1 REGISTER
+From: "s72" <sip:s72@192.168.188.75:5072>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5072;branch=z9hG4bKff614cbe2b63de2ef15aad14514164e2
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5063" 
+to="192.168.188.75:5065" 
+time="1217836340123"
+isSender="false" 
+transactionId="z9hg4bkda7d055906d90f883776b27ef9611dbf" 
+callId="8734eefe9bdc5d6f9c19ef96653ffbb7@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 8734eefe9bdc5d6f9c19ef96653ffbb7@192.168.188.75
+CSeq: 1 REGISTER
+From: "s3" <sip:s3@192.168.188.75:5063>;tag=Client
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5063;branch=z9hG4bKda7d055906d90f883776b27ef9611dbf
+Max-Forwards: 70
+Contact: "s3" <sip:s3@192.168.188.75:5063>
+Content-Type: text/plain
+Content-Length: 27
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5063" 
+time="1217836340154"
+isSender="true" 
+transactionId="z9hg4bkda7d055906d90f883776b27ef9611dbf" 
+callId="8734eefe9bdc5d6f9c19ef96653ffbb7@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 8734eefe9bdc5d6f9c19ef96653ffbb7@192.168.188.75
+CSeq: 1 REGISTER
+From: "s3" <sip:s3@192.168.188.75:5063>;tag=Client
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5063;branch=z9hG4bKda7d055906d90f883776b27ef9611dbf
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.188.75
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<message
+from="192.168.188.75:5072" 
+to="192.168.188.75:5065" 
+time="1217836396154"
+isSender="false" 
+transactionId="z9hg4bk35d12f8c6bd5d18104e7bfa9680aaf0a" 
+callId="deba5ecd5cc236cc67b0d46aa8bf0df3@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: deba5ecd5cc236cc67b0d46aa8bf0df3@192.168.188.75
+CSeq: 1 REGISTER
+From: "s72" <sip:s72@192.168.188.75:5072>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5072;branch=z9hG4bK35d12f8c6bd5d18104e7bfa9680aaf0a
+Max-Forwards: 70
+Contact: "s72" <sip:s72@192.168.188.75:5072>
+Content-Type: text/plain
+Content-Length: 30
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5072" 
+time="1217836396545"
+isSender="true" 
+transactionId="z9hg4bk35d12f8c6bd5d18104e7bfa9680aaf0a" 
+callId="deba5ecd5cc236cc67b0d46aa8bf0df3@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: deba5ecd5cc236cc67b0d46aa8bf0df3@192.168.188.75
+CSeq: 1 REGISTER
+From: "s72" <sip:s72@192.168.188.75:5072>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5072;branch=z9hG4bK35d12f8c6bd5d18104e7bfa9680aaf0a
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5063" 
+to="192.168.188.75:5065" 
+time="1217836397279"
+isSender="false" 
+transactionId="z9hg4bk40d0fa3943c6b98785e08010211a0088" 
+callId="03d4e452a7880c1b3cc3a6b426efa57d@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 03d4e452a7880c1b3cc3a6b426efa57d@192.168.188.75
+CSeq: 1 REGISTER
+From: "s3" <sip:s3@192.168.188.75:5063>;tag=Client
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5063;branch=z9hG4bK40d0fa3943c6b98785e08010211a0088
+Max-Forwards: 70
+Contact: "s3" <sip:s3@192.168.188.75:5063>
+Content-Type: text/plain
+Content-Length: 27
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5063" 
+time="1217836397295"
+isSender="true" 
+transactionId="z9hg4bk40d0fa3943c6b98785e08010211a0088" 
+callId="03d4e452a7880c1b3cc3a6b426efa57d@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 03d4e452a7880c1b3cc3a6b426efa57d@192.168.188.75
+CSeq: 1 REGISTER
+From: "s3" <sip:s3@192.168.188.75:5063>;tag=Client
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5063;branch=z9hG4bK40d0fa3943c6b98785e08010211a0088
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.188.75
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<message
+from="192.168.188.75:5072" 
+to="192.168.188.75:5065" 
+time="1217836442998"
+isSender="false" 
+transactionId="z9hg4bk93811ef4808a9e4003e13f45cedb04b8" 
+callId="2f571658265363441c9bc86ac5f47d06@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 2f571658265363441c9bc86ac5f47d06@192.168.188.75
+CSeq: 1 REGISTER
+From: "s72" <sip:s72@192.168.188.75:5072>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5072;branch=z9hG4bK93811ef4808a9e4003e13f45cedb04b8
+Max-Forwards: 70
+Contact: "s72" <sip:s72@192.168.188.75:5072>
+Content-Type: text/plain
+Content-Length: 30
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5072" 
+time="1217836443373"
+isSender="true" 
+transactionId="z9hg4bk93811ef4808a9e4003e13f45cedb04b8" 
+callId="2f571658265363441c9bc86ac5f47d06@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 2f571658265363441c9bc86ac5f47d06@192.168.188.75
+CSeq: 1 REGISTER
+From: "s72" <sip:s72@192.168.188.75:5072>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5072;branch=z9hG4bK93811ef4808a9e4003e13f45cedb04b8
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5063" 
+to="192.168.188.75:5065" 
+time="1217836445295"
+isSender="false" 
+transactionId="z9hg4bka8f18c6f97cf8c6ff76364224837b546" 
+callId="1c75a70b744360b13655683e201f830c@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 1c75a70b744360b13655683e201f830c@192.168.188.75
+CSeq: 1 REGISTER
+From: "s3" <sip:s3@192.168.188.75:5063>;tag=Client
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5063;branch=z9hG4bKa8f18c6f97cf8c6ff76364224837b546
+Max-Forwards: 70
+Contact: "s3" <sip:s3@192.168.188.75:5063>
+Content-Type: text/plain
+Content-Length: 27
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5063" 
+time="1217836445311"
+isSender="true" 
+transactionId="z9hg4bka8f18c6f97cf8c6ff76364224837b546" 
+callId="1c75a70b744360b13655683e201f830c@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 1c75a70b744360b13655683e201f830c@192.168.188.75
+CSeq: 1 REGISTER
+From: "s3" <sip:s3@192.168.188.75:5063>;tag=Client
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5063;branch=z9hG4bKa8f18c6f97cf8c6ff76364224837b546
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.188.75
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<message
+from="192.168.188.75:5072" 
+to="192.168.188.75:5065" 
+time="1217836640248"
+isSender="false" 
+transactionId="z9hg4bkf14c05014d9e632b8bbe6dc685d94918" 
+callId="6d47e7d9a4ddfa88d720e1ae526ebd9d@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 6d47e7d9a4ddfa88d720e1ae526ebd9d@192.168.188.75
+CSeq: 1 REGISTER
+From: "s72" <sip:s72@192.168.188.75:5072>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5072;branch=z9hG4bKf14c05014d9e632b8bbe6dc685d94918
+Max-Forwards: 70
+Contact: "s72" <sip:s72@192.168.188.75:5072>
+Content-Type: text/plain
+Content-Length: 30
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5072" 
+time="1217836640623"
+isSender="true" 
+transactionId="z9hg4bkf14c05014d9e632b8bbe6dc685d94918" 
+callId="6d47e7d9a4ddfa88d720e1ae526ebd9d@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 6d47e7d9a4ddfa88d720e1ae526ebd9d@192.168.188.75
+CSeq: 1 REGISTER
+From: "s72" <sip:s72@192.168.188.75:5072>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5072;branch=z9hG4bKf14c05014d9e632b8bbe6dc685d94918
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217836642279"
+isSender="false" 
+transactionId="z9hg4bk2ceb6e8314cb0327f7e9b9661380a8a7" 
+callId="517c9fac35264f150f311331983c51a3@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 517c9fac35264f150f311331983c51a3@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK2ceb6e8314cb0327f7e9b9661380a8a7
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5061>
+Content-Type: text/plain
+Content-Length: 30
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5061" 
+time="1217836642311"
+isSender="true" 
+transactionId="z9hg4bk2ceb6e8314cb0327f7e9b9661380a8a7" 
+callId="517c9fac35264f150f311331983c51a3@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 517c9fac35264f150f311331983c51a3@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK2ceb6e8314cb0327f7e9b9661380a8a7
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5063" 
+to="192.168.188.75:5065" 
+time="1217836645107"
+isSender="false" 
+transactionId="z9hg4bkad2d75d9e7922d51d4e555d3165f0737" 
+callId="f1dddf9961cf4072e6111dcd9cf0c72f@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: f1dddf9961cf4072e6111dcd9cf0c72f@192.168.188.75
+CSeq: 1 REGISTER
+From: "s3" <sip:s3@192.168.188.75:5063>;tag=Client
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5063;branch=z9hG4bKad2d75d9e7922d51d4e555d3165f0737
+Max-Forwards: 70
+Contact: "s3" <sip:s3@192.168.188.75:5063>
+Content-Type: text/plain
+Content-Length: 27
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5063" 
+time="1217836645170"
+isSender="true" 
+transactionId="z9hg4bkad2d75d9e7922d51d4e555d3165f0737" 
+callId="f1dddf9961cf4072e6111dcd9cf0c72f@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: f1dddf9961cf4072e6111dcd9cf0c72f@192.168.188.75
+CSeq: 1 REGISTER
+From: "s3" <sip:s3@192.168.188.75:5063>;tag=Client
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5063;branch=z9hG4bKad2d75d9e7922d51d4e555d3165f0737
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.188.75
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217838209264"
+isSender="false" 
+transactionId="z9hg4bk6561ee086783b2a79e2937c234a45287" 
+callId="847f6966fc679ee90e8e2fe4417c1bd5@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 847f6966fc679ee90e8e2fe4417c1bd5@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK6561ee086783b2a79e2937c234a45287
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5061>
+Content-Type: text/plain
+Content-Length: 30
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5061" 
+time="1217838209654"
+isSender="true" 
+transactionId="z9hg4bk6561ee086783b2a79e2937c234a45287" 
+callId="847f6966fc679ee90e8e2fe4417c1bd5@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 847f6966fc679ee90e8e2fe4417c1bd5@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK6561ee086783b2a79e2937c234a45287
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217838209795"
+isSender="false" 
+transactionId="z9hg4bk6561ee086783b2a79e2937c234a45287" 
+callId="847f6966fc679ee90e8e2fe4417c1bd5@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 847f6966fc679ee90e8e2fe4417c1bd5@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK6561ee086783b2a79e2937c234a45287
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5061>
+Content-Type: text/plain
+Content-Length: 30
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5061" 
+time="1217838209795"
+isSender="true" 
+transactionId="z9hg4bk6561ee086783b2a79e2937c234a45287" 
+callId="847f6966fc679ee90e8e2fe4417c1bd5@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 847f6966fc679ee90e8e2fe4417c1bd5@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK6561ee086783b2a79e2937c234a45287
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5072" 
+to="192.168.188.75:5065" 
+time="1217838211561"
+isSender="false" 
+transactionId="z9hg4bk6383f84ba6a887f0d2d98afe7b26f2d8" 
+callId="8f205f7f0e6207cca5091ec3d091c57a@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 8f205f7f0e6207cca5091ec3d091c57a@192.168.188.75
+CSeq: 1 REGISTER
+From: "s72" <sip:s72@192.168.188.75:5072>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5072;branch=z9hG4bK6383f84ba6a887f0d2d98afe7b26f2d8
+Max-Forwards: 70
+Contact: "s72" <sip:s72@192.168.188.75:5072>
+Content-Type: text/plain
+Content-Length: 30
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5072" 
+time="1217838211623"
+isSender="true" 
+transactionId="z9hg4bk6383f84ba6a887f0d2d98afe7b26f2d8" 
+callId="8f205f7f0e6207cca5091ec3d091c57a@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 8f205f7f0e6207cca5091ec3d091c57a@192.168.188.75
+CSeq: 1 REGISTER
+From: "s72" <sip:s72@192.168.188.75:5072>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5072;branch=z9hG4bK6383f84ba6a887f0d2d98afe7b26f2d8
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5063" 
+to="192.168.188.75:5065" 
+time="1217838214139"
+isSender="false" 
+transactionId="z9hg4bk3c4926d86bf52ee5a96f9ea8792a4932" 
+callId="453003ac0927d7f2b370c8f1fcc7de6b@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 453003ac0927d7f2b370c8f1fcc7de6b@192.168.188.75
+CSeq: 1 REGISTER
+From: "s3" <sip:s3@192.168.188.75:5063>;tag=Client
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5063;branch=z9hG4bK3c4926d86bf52ee5a96f9ea8792a4932
+Max-Forwards: 70
+Contact: "s3" <sip:s3@192.168.188.75:5063>
+Content-Type: text/plain
+Content-Length: 27
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5063" 
+time="1217838214170"
+isSender="true" 
+transactionId="z9hg4bk3c4926d86bf52ee5a96f9ea8792a4932" 
+callId="453003ac0927d7f2b370c8f1fcc7de6b@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 453003ac0927d7f2b370c8f1fcc7de6b@192.168.188.75
+CSeq: 1 REGISTER
+From: "s3" <sip:s3@192.168.188.75:5063>;tag=Client
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5063;branch=z9hG4bK3c4926d86bf52ee5a96f9ea8792a4932
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.188.75
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217838258889"
+isSender="false" 
+transactionId="z9hg4bk555b022c99f181d03b81c7f2e163884a" 
+callId="65874c07a6cf2f0c3470c80050bf145d@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 65874c07a6cf2f0c3470c80050bf145d@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK555b022c99f181d03b81c7f2e163884a
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5061>
+Content-Type: text/plain
+Content-Length: 30
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5061" 
+time="1217838259311"
+isSender="true" 
+transactionId="z9hg4bk555b022c99f181d03b81c7f2e163884a" 
+callId="65874c07a6cf2f0c3470c80050bf145d@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 65874c07a6cf2f0c3470c80050bf145d@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK555b022c99f181d03b81c7f2e163884a
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5061" 
+to="192.168.188.75:5065" 
+time="1217838259404"
+isSender="false" 
+transactionId="z9hg4bk555b022c99f181d03b81c7f2e163884a" 
+callId="65874c07a6cf2f0c3470c80050bf145d@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 65874c07a6cf2f0c3470c80050bf145d@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK555b022c99f181d03b81c7f2e163884a
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5061>
+Content-Type: text/plain
+Content-Length: 30
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5061" 
+time="1217838259404"
+isSender="true" 
+transactionId="z9hg4bk555b022c99f181d03b81c7f2e163884a" 
+callId="65874c07a6cf2f0c3470c80050bf145d@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 65874c07a6cf2f0c3470c80050bf145d@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5061>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5061;branch=z9hG4bK555b022c99f181d03b81c7f2e163884a
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5072" 
+to="192.168.188.75:5065" 
+time="1217838260514"
+isSender="false" 
+transactionId="z9hg4bkfb02d275279a5b852fd8d27ee3eab63f" 
+callId="a0483f8f7699303235df156c55b9a3e6@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: a0483f8f7699303235df156c55b9a3e6@192.168.188.75
+CSeq: 1 REGISTER
+From: "s72" <sip:s72@192.168.188.75:5072>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5072;branch=z9hG4bKfb02d275279a5b852fd8d27ee3eab63f
+Max-Forwards: 70
+Contact: "s72" <sip:s72@192.168.188.75:5072>
+Content-Type: text/plain
+Content-Length: 30
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5072" 
+time="1217838260592"
+isSender="true" 
+transactionId="z9hg4bkfb02d275279a5b852fd8d27ee3eab63f" 
+callId="a0483f8f7699303235df156c55b9a3e6@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: a0483f8f7699303235df156c55b9a3e6@192.168.188.75
+CSeq: 1 REGISTER
+From: "s72" <sip:s72@192.168.188.75:5072>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5072;branch=z9hG4bKfb02d275279a5b852fd8d27ee3eab63f
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5063" 
+to="192.168.188.75:5065" 
+time="1217838263404"
+isSender="false" 
+transactionId="z9hg4bk26f449bb488529b794056371563554d1" 
+callId="39adfee0ed9b14135d7d3de19770fb9a@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 39adfee0ed9b14135d7d3de19770fb9a@192.168.188.75
+CSeq: 1 REGISTER
+From: "s3" <sip:s3@192.168.188.75:5063>;tag=Client
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5063;branch=z9hG4bK26f449bb488529b794056371563554d1
+Max-Forwards: 70
+Contact: "s3" <sip:s3@192.168.188.75:5063>
+Content-Type: text/plain
+Content-Length: 27
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5063" 
+time="1217838263420"
+isSender="true" 
+transactionId="z9hg4bk26f449bb488529b794056371563554d1" 
+callId="39adfee0ed9b14135d7d3de19770fb9a@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 39adfee0ed9b14135d7d3de19770fb9a@192.168.188.75
+CSeq: 1 REGISTER
+From: "s3" <sip:s3@192.168.188.75:5063>;tag=Client
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5063;branch=z9hG4bK26f449bb488529b794056371563554d1
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.188.75
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<message
+from="192.168.188.75:5072" 
+to="192.168.188.75:5065" 
+time="1217843115795"
+isSender="false" 
+transactionId="z9hg4bk5cf48b3e2cd9510bcb0fd5df9b8f45c5" 
+callId="83ccc496b76077e97c7c27bed2772f7e@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 83ccc496b76077e97c7c27bed2772f7e@192.168.188.75
+CSeq: 1 REGISTER
+From: "s72" <sip:s72@192.168.188.75:5072>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5072;branch=z9hG4bK5cf48b3e2cd9510bcb0fd5df9b8f45c5
+Max-Forwards: 70
+Contact: "s72" <sip:s72@192.168.188.75:5072>
+Content-Type: text/plain
+Content-Length: 30
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5072" 
+to="192.168.188.75:5065" 
+time="1217843116264"
+isSender="false" 
+transactionId="z9hg4bk5cf48b3e2cd9510bcb0fd5df9b8f45c5" 
+callId="83ccc496b76077e97c7c27bed2772f7e@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 83ccc496b76077e97c7c27bed2772f7e@192.168.188.75
+CSeq: 1 REGISTER
+From: "s72" <sip:s72@192.168.188.75:5072>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5072;branch=z9hG4bK5cf48b3e2cd9510bcb0fd5df9b8f45c5
+Max-Forwards: 70
+Contact: "s72" <sip:s72@192.168.188.75:5072>
+Content-Type: text/plain
+Content-Length: 30
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5072" 
+time="1217843116342"
+isSender="true" 
+transactionId="z9hg4bk5cf48b3e2cd9510bcb0fd5df9b8f45c5" 
+callId="83ccc496b76077e97c7c27bed2772f7e@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 83ccc496b76077e97c7c27bed2772f7e@192.168.188.75
+CSeq: 1 REGISTER
+From: "s72" <sip:s72@192.168.188.75:5072>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5072;branch=z9hG4bK5cf48b3e2cd9510bcb0fd5df9b8f45c5
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5071" 
+to="192.168.188.75:5065" 
+time="1217843120654"
+isSender="false" 
+transactionId="z9hg4bkde5c97ea38dbeb4ba52308e226df4921" 
+callId="962ec4953cab632ecf97b4868f3447e6@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 962ec4953cab632ecf97b4868f3447e6@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5071>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5071;branch=z9hG4bKde5c97ea38dbeb4ba52308e226df4921
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5071>
+Content-Type: text/plain
+Content-Length: 30
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5071" 
+time="1217843120717"
+isSender="true" 
+transactionId="z9hg4bkde5c97ea38dbeb4ba52308e226df4921" 
+callId="962ec4953cab632ecf97b4868f3447e6@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 962ec4953cab632ecf97b4868f3447e6@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5071>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5071;branch=z9hG4bKde5c97ea38dbeb4ba52308e226df4921
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5063" 
+to="192.168.188.75:5065" 
+time="1217843126436"
+isSender="false" 
+transactionId="z9hg4bk9a9cdc5abdbbce7f72239d259522a911" 
+callId="fb7297be491fe8219619fc50fa4cc4bd@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: fb7297be491fe8219619fc50fa4cc4bd@192.168.188.75
+CSeq: 1 REGISTER
+From: "s3" <sip:s3@192.168.188.75:5063>;tag=Client
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5063;branch=z9hG4bK9a9cdc5abdbbce7f72239d259522a911
+Max-Forwards: 70
+Contact: "s3" <sip:s3@192.168.188.75:5063>
+Content-Type: text/plain
+Content-Length: 27
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5063" 
+time="1217843126451"
+isSender="true" 
+transactionId="z9hg4bk9a9cdc5abdbbce7f72239d259522a911" 
+callId="fb7297be491fe8219619fc50fa4cc4bd@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: fb7297be491fe8219619fc50fa4cc4bd@192.168.188.75
+CSeq: 1 REGISTER
+From: "s3" <sip:s3@192.168.188.75:5063>;tag=Client
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5063;branch=z9hG4bK9a9cdc5abdbbce7f72239d259522a911
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.188.75
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.188.75
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<message
+from="192.168.188.75:5071" 
+to="192.168.188.75:5065" 
+time="1217863703718"
+isSender="false" 
+transactionId="z9hg4bked2fe9d350a088f283caf1c060cbe680" 
+callId="d41cd9e34f7af369fb4ffe4a80922a47@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: d41cd9e34f7af369fb4ffe4a80922a47@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5071>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5071;branch=z9hG4bKed2fe9d350a088f283caf1c060cbe680
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5071>
+Content-Type: text/plain
+Content-Length: 30
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5071" 
+time="1217863704093"
+isSender="true" 
+transactionId="z9hg4bked2fe9d350a088f283caf1c060cbe680" 
+callId="d41cd9e34f7af369fb4ffe4a80922a47@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: d41cd9e34f7af369fb4ffe4a80922a47@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5071>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5071;branch=z9hG4bKed2fe9d350a088f283caf1c060cbe680
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5071" 
+to="192.168.188.75:5065" 
+time="1217863704265"
+isSender="false" 
+transactionId="z9hg4bked2fe9d350a088f283caf1c060cbe680" 
+callId="d41cd9e34f7af369fb4ffe4a80922a47@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: d41cd9e34f7af369fb4ffe4a80922a47@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5071>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5071;branch=z9hG4bKed2fe9d350a088f283caf1c060cbe680
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5071>
+Content-Type: text/plain
+Content-Length: 30
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5071" 
+time="1217863704281"
+isSender="true" 
+transactionId="z9hg4bked2fe9d350a088f283caf1c060cbe680" 
+callId="d41cd9e34f7af369fb4ffe4a80922a47@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: d41cd9e34f7af369fb4ffe4a80922a47@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5071>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5071;branch=z9hG4bKed2fe9d350a088f283caf1c060cbe680
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5072" 
+to="192.168.188.75:5065" 
+time="1217863705593"
+isSender="false" 
+transactionId="z9hg4bkb8cd398fa7b27eb2f64e2d492d6454da" 
+callId="1acf481d0a94f87b88a74b04f74fb983@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 1acf481d0a94f87b88a74b04f74fb983@192.168.188.75
+CSeq: 1 REGISTER
+From: "s72" <sip:s72@192.168.188.75:5072>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5072;branch=z9hG4bKb8cd398fa7b27eb2f64e2d492d6454da
+Max-Forwards: 70
+Contact: "s72" <sip:s72@192.168.188.75:5072>
+Content-Type: text/plain
+Content-Length: 30
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5072" 
+time="1217863705640"
+isSender="true" 
+transactionId="z9hg4bkb8cd398fa7b27eb2f64e2d492d6454da" 
+callId="1acf481d0a94f87b88a74b04f74fb983@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 1acf481d0a94f87b88a74b04f74fb983@192.168.188.75
+CSeq: 1 REGISTER
+From: "s72" <sip:s72@192.168.188.75:5072>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5072;branch=z9hG4bKb8cd398fa7b27eb2f64e2d492d6454da
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5063" 
+to="192.168.188.75:5065" 
+time="1217863718328"
+isSender="false" 
+transactionId="z9hg4bk1c1f64aa5b947c32e97e9fd4c7390afa" 
+callId="efd78477a219a893379bc38f7ebca399@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: efd78477a219a893379bc38f7ebca399@192.168.188.75
+CSeq: 1 REGISTER
+From: "s3" <sip:s3@192.168.188.75:5063>;tag=Client
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5063;branch=z9hG4bK1c1f64aa5b947c32e97e9fd4c7390afa
+Max-Forwards: 70
+Contact: "s3" <sip:s3@192.168.188.75:5063>
+Content-Type: text/plain
+Content-Length: 27
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5063" 
+time="1217863718343"
+isSender="true" 
+transactionId="z9hg4bk1c1f64aa5b947c32e97e9fd4c7390afa" 
+callId="efd78477a219a893379bc38f7ebca399@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: efd78477a219a893379bc38f7ebca399@192.168.188.75
+CSeq: 1 REGISTER
+From: "s3" <sip:s3@192.168.188.75:5063>;tag=Client
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5063;branch=z9hG4bK1c1f64aa5b947c32e97e9fd4c7390afa
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5065" 
+time="1217863718359"
+isSender="true" 
+transactionId="presenceserver:f16d969f4e1cce2c310da5b823ee0219@192.168.188.75:1:message:192.168.188.75:5065" 
+callId="f16d969f4e1cce2c310da5b823ee0219@192.168.188.75" 
+firstLine="MESSAGE sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: f16d969f4e1cce2c310da5b823ee0219@192.168.188.75
+CSeq: 1 MESSAGE
+From: "s5" <sip:s5@192.168.188.75:5065>;tag=PresenceServer
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5065;branch=branch1
+Max-Forwards: 70
+Contact: "s5" <sip:s5@192.168.188.75:5065>
+Content-Type: text/plain
+Content-Length: 54
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5065" 
+time="1217863718500"
+isSender="false" 
+transactionId="presenceserver:f16d969f4e1cce2c310da5b823ee0219@192.168.188.75:1:message:192.168.188.75:5065" 
+callId="f16d969f4e1cce2c310da5b823ee0219@192.168.188.75" 
+firstLine="MESSAGE sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: f16d969f4e1cce2c310da5b823ee0219@192.168.188.75
+CSeq: 1 MESSAGE
+From: "s5" <sip:s5@192.168.188.75:5065>;tag=PresenceServer
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5065;branch=branch1
+Max-Forwards: 70
+Contact: "s5" <sip:s5@192.168.188.75:5065>
+Content-Type: text/plain
+Content-Length: 54
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.188.75
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<message
+from="192.168.188.75:5071" 
+to="192.168.188.75:5065" 
+time="1217918119312"
+isSender="false" 
+transactionId="z9hg4bk53322938fc60ece53122db5ea9946a80" 
+callId="6b3f69257576e87f6d39503542f3fb88@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 6b3f69257576e87f6d39503542f3fb88@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5071>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5071;branch=z9hG4bK53322938fc60ece53122db5ea9946a80
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5071>
+Content-Type: text/plain
+Content-Length: 30
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5071" 
+to="192.168.188.75:5065" 
+time="1217918118781"
+isSender="false" 
+transactionId="z9hg4bk53322938fc60ece53122db5ea9946a80" 
+callId="6b3f69257576e87f6d39503542f3fb88@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 6b3f69257576e87f6d39503542f3fb88@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5071>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5071;branch=z9hG4bK53322938fc60ece53122db5ea9946a80
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5071>
+Content-Type: text/plain
+Content-Length: 30
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5071" 
+time="1217918119468"
+isSender="true" 
+transactionId="z9hg4bk53322938fc60ece53122db5ea9946a80" 
+callId="6b3f69257576e87f6d39503542f3fb88@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 6b3f69257576e87f6d39503542f3fb88@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5071>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5071;branch=z9hG4bK53322938fc60ece53122db5ea9946a80
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5063" 
+to="192.168.188.75:5065" 
+time="1217918126406"
+isSender="false" 
+transactionId="z9hg4bke31c4cae06a7de40221b5ecbad853196" 
+callId="5859a473c5d77c329dd10c6a257928c7@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 5859a473c5d77c329dd10c6a257928c7@192.168.188.75
+CSeq: 1 REGISTER
+From: "s3" <sip:s3@192.168.188.75:5063>;tag=Client
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5063;branch=z9hG4bKe31c4cae06a7de40221b5ecbad853196
+Max-Forwards: 70
+Contact: "s3" <sip:s3@192.168.188.75:5063>
+Content-Type: text/plain
+Content-Length: 27
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5063" 
+time="1217918126453"
+isSender="true" 
+transactionId="z9hg4bke31c4cae06a7de40221b5ecbad853196" 
+callId="5859a473c5d77c329dd10c6a257928c7@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 5859a473c5d77c329dd10c6a257928c7@192.168.188.75
+CSeq: 1 REGISTER
+From: "s3" <sip:s3@192.168.188.75:5063>;tag=Client
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5063;branch=z9hG4bKe31c4cae06a7de40221b5ecbad853196
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5063" 
+time="1217918126468"
+isSender="true" 
+transactionId="presenceserver:e2d5d7e76b3cda950f49127cfc9298b7@192.168.188.75:1:message:192.168.188.75:5065" 
+callId="e2d5d7e76b3cda950f49127cfc9298b7@192.168.188.75" 
+firstLine="MESSAGE sip:s3@192.168.188.75:5063;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:s3@192.168.188.75:5063;transport=udp SIP/2.0
+Call-ID: e2d5d7e76b3cda950f49127cfc9298b7@192.168.188.75
+CSeq: 1 MESSAGE
+From: "s5" <sip:s5@192.168.188.75:5065>;tag=PresenceServer
+To: "s3" <sip:s3@192.168.188.75:5063>
+Via: SIP/2.0/UDP 192.168.188.75:5065;branch=branch1
+Max-Forwards: 70
+Contact: "s5" <sip:s5@192.168.188.75:5065>
+Content-Type: text/plain
+Content-Length: 30
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5063" 
+to="192.168.188.75:5065" 
+time="1217918126703"
+isSender="false" 
+transactionId="presenceserver:e2d5d7e76b3cda950f49127cfc9298b7@192.168.188.75:1:message:192.168.188.75:5065" 
+callId="e2d5d7e76b3cda950f49127cfc9298b7@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: e2d5d7e76b3cda950f49127cfc9298b7@192.168.188.75
+CSeq: 1 MESSAGE
+From: "s5" <sip:s5@192.168.188.75:5065>;tag=PresenceServer
+To: "s3" <sip:s3@192.168.188.75:5063>;tag=888
+Via: SIP/2.0/UDP 192.168.188.75:5065;branch=branch1
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.188.75
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<message
+from="192.168.188.75:5071" 
+to="192.168.188.75:5065" 
+time="1217918510843"
+isSender="false" 
+transactionId="z9hg4bkc66e9eb4726d79802e18c96f8742df48" 
+callId="d984def3477e397cea844615d61e735e@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: d984def3477e397cea844615d61e735e@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5071>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5071;branch=z9hG4bKc66e9eb4726d79802e18c96f8742df48
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5071>
+Content-Type: text/plain
+Content-Length: 30
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5071" 
+time="1217918511218"
+isSender="true" 
+transactionId="z9hg4bkc66e9eb4726d79802e18c96f8742df48" 
+callId="d984def3477e397cea844615d61e735e@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: d984def3477e397cea844615d61e735e@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5071>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5071;branch=z9hG4bKc66e9eb4726d79802e18c96f8742df48
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5063" 
+to="192.168.188.75:5065" 
+time="1217918512953"
+isSender="false" 
+transactionId="z9hg4bk17263d9625f473b99f8229b635405024" 
+callId="42064915194e0694c4b69fc0b5030556@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 42064915194e0694c4b69fc0b5030556@192.168.188.75
+CSeq: 1 REGISTER
+From: "s3" <sip:s3@192.168.188.75:5063>;tag=Client
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5063;branch=z9hG4bK17263d9625f473b99f8229b635405024
+Max-Forwards: 70
+Contact: "s3" <sip:s3@192.168.188.75:5063>
+Content-Type: text/plain
+Content-Length: 27
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5063" 
+time="1217918512984"
+isSender="true" 
+transactionId="z9hg4bk17263d9625f473b99f8229b635405024" 
+callId="42064915194e0694c4b69fc0b5030556@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 42064915194e0694c4b69fc0b5030556@192.168.188.75
+CSeq: 1 REGISTER
+From: "s3" <sip:s3@192.168.188.75:5063>;tag=Client
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5063;branch=z9hG4bK17263d9625f473b99f8229b635405024
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5063" 
+time="1217918512984"
+isSender="true" 
+transactionId="presenceserver:e79beee340eaeac89bbf02d66d8c9414@192.168.188.75:1:message:192.168.188.75:5065" 
+callId="e79beee340eaeac89bbf02d66d8c9414@192.168.188.75" 
+firstLine="MESSAGE sip:s3@192.168.188.75:5063;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:s3@192.168.188.75:5063;transport=udp SIP/2.0
+Call-ID: e79beee340eaeac89bbf02d66d8c9414@192.168.188.75
+CSeq: 1 MESSAGE
+From: "s5" <sip:s5@192.168.188.75:5065>;tag=PresenceServer
+To: "s3" <sip:s3@192.168.188.75:5063>
+Via: SIP/2.0/UDP 192.168.188.75:5065;branch=branch1
+Max-Forwards: 70
+Contact: "s5" <sip:s5@192.168.188.75:5065>
+Content-Type: text/plain
+Content-Length: 30
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5063" 
+to="192.168.188.75:5065" 
+time="1217918513093"
+isSender="false" 
+transactionId="presenceserver:e79beee340eaeac89bbf02d66d8c9414@192.168.188.75:1:message:192.168.188.75:5065" 
+callId="e79beee340eaeac89bbf02d66d8c9414@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: e79beee340eaeac89bbf02d66d8c9414@192.168.188.75
+CSeq: 1 MESSAGE
+From: "s5" <sip:s5@192.168.188.75:5065>;tag=PresenceServer
+To: "s3" <sip:s3@192.168.188.75:5063>;tag=888
+Via: SIP/2.0/UDP 192.168.188.75:5065;branch=branch1
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.188.75
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<message
+from="192.168.188.75:5071" 
+to="192.168.188.75:5065" 
+time="1217925508500"
+isSender="false" 
+transactionId="z9hg4bk76ef52205d46c3140c4a61f96a5962b0" 
+callId="1893b1bfd71f8055eb39b15e86405e6e@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 1893b1bfd71f8055eb39b15e86405e6e@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5071>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5071;branch=z9hG4bK76ef52205d46c3140c4a61f96a5962b0
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5071>
+Content-Type: text/plain
+Content-Length: 30
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5071" 
+time="1217925508953"
+isSender="true" 
+transactionId="z9hg4bk76ef52205d46c3140c4a61f96a5962b0" 
+callId="1893b1bfd71f8055eb39b15e86405e6e@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 1893b1bfd71f8055eb39b15e86405e6e@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5071>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5071;branch=z9hG4bK76ef52205d46c3140c4a61f96a5962b0
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5071" 
+to="192.168.188.75:5065" 
+time="1217925509187"
+isSender="false" 
+transactionId="z9hg4bk76ef52205d46c3140c4a61f96a5962b0" 
+callId="1893b1bfd71f8055eb39b15e86405e6e@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 1893b1bfd71f8055eb39b15e86405e6e@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5071>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5071;branch=z9hG4bK76ef52205d46c3140c4a61f96a5962b0
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5071>
+Content-Type: text/plain
+Content-Length: 30
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5071" 
+time="1217925509187"
+isSender="true" 
+transactionId="z9hg4bk76ef52205d46c3140c4a61f96a5962b0" 
+callId="1893b1bfd71f8055eb39b15e86405e6e@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 1893b1bfd71f8055eb39b15e86405e6e@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5071>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5071;branch=z9hG4bK76ef52205d46c3140c4a61f96a5962b0
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5063" 
+to="192.168.188.75:5065" 
+time="1217925512906"
+isSender="false" 
+transactionId="z9hg4bk892f78b4fb9f677b5707824f8fe4760e" 
+callId="e0a9174893c22d3d01773c9103f21547@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: e0a9174893c22d3d01773c9103f21547@192.168.188.75
+CSeq: 1 REGISTER
+From: "s3" <sip:s3@192.168.188.75:5063>;tag=Client
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5063;branch=z9hG4bK892f78b4fb9f677b5707824f8fe4760e
+Max-Forwards: 70
+Contact: "s3" <sip:s3@192.168.188.75:5063>
+Content-Type: text/plain
+Content-Length: 27
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5063" 
+time="1217925512968"
+isSender="true" 
+transactionId="z9hg4bk892f78b4fb9f677b5707824f8fe4760e" 
+callId="e0a9174893c22d3d01773c9103f21547@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: e0a9174893c22d3d01773c9103f21547@192.168.188.75
+CSeq: 1 REGISTER
+From: "s3" <sip:s3@192.168.188.75:5063>;tag=Client
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5063;branch=z9hG4bK892f78b4fb9f677b5707824f8fe4760e
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5063" 
+time="1217925513078"
+isSender="true" 
+transactionId="presenceserver:950feeb77d2623518e754bb7e16095f3@192.168.188.75:1:message:192.168.188.75:5065" 
+callId="950feeb77d2623518e754bb7e16095f3@192.168.188.75" 
+firstLine="MESSAGE sip:s3@192.168.188.75:5063;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:s3@192.168.188.75:5063;transport=udp SIP/2.0
+Call-ID: 950feeb77d2623518e754bb7e16095f3@192.168.188.75
+CSeq: 1 MESSAGE
+From: "s5" <sip:s5@192.168.188.75:5065>;tag=PresenceServer
+To: "s3" <sip:s3@192.168.188.75:5063>
+Via: SIP/2.0/UDP 192.168.188.75:5065;branch=branch1
+Max-Forwards: 70
+Contact: "s5" <sip:s5@192.168.188.75:5065>
+Content-Type: text/plain
+Content-Length: 30
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5063" 
+to="192.168.188.75:5065" 
+time="1217925513296"
+isSender="false" 
+transactionId="presenceserver:950feeb77d2623518e754bb7e16095f3@192.168.188.75:1:message:192.168.188.75:5065" 
+callId="950feeb77d2623518e754bb7e16095f3@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 950feeb77d2623518e754bb7e16095f3@192.168.188.75
+CSeq: 1 MESSAGE
+From: "s5" <sip:s5@192.168.188.75:5065>;tag=PresenceServer
+To: "s3" <sip:s3@192.168.188.75:5063>;tag=888
+Via: SIP/2.0/UDP 192.168.188.75:5065;branch=branch1
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5063" 
+to="192.168.188.75:5065" 
+time="1217925520906"
+isSender="false" 
+transactionId="z9hg4bkcf516e0ae788fa52ec3a8583424978e9" 
+callId="7276875607ae21547954a716c5113c96@192.168.188.75" 
+firstLine="SUBSCRIBE sip:s1@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[SUBSCRIBE sip:s1@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 7276875607ae21547954a716c5113c96@192.168.188.75
+CSeq: 1 SUBSCRIBE
+From: "s3" <sip:s3@192.168.188.75:5063>;tag=WatcherClientclientv1.0
+To: "s1" <sip:s1@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5063;branch=z9hG4bKcf516e0ae788fa52ec3a8583424978e9
+Max-Forwards: 70
+Contact: "s3" <sip:s3@192.168.188.75:5063>
+Event: state
+Expires: 600000
+Content-Type: text/plain
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5063" 
+to="192.168.188.75:5065" 
+time="1217925521375"
+isSender="false" 
+transactionId="z9hg4bkcf516e0ae788fa52ec3a8583424978e9" 
+callId="7276875607ae21547954a716c5113c96@192.168.188.75" 
+firstLine="SUBSCRIBE sip:s1@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[SUBSCRIBE sip:s1@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 7276875607ae21547954a716c5113c96@192.168.188.75
+CSeq: 1 SUBSCRIBE
+From: "s3" <sip:s3@192.168.188.75:5063>;tag=WatcherClientclientv1.0
+To: "s1" <sip:s1@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5063;branch=z9hG4bKcf516e0ae788fa52ec3a8583424978e9
+Max-Forwards: 70
+Contact: "s3" <sip:s3@192.168.188.75:5063>
+Event: state
+Expires: 600000
+Content-Type: text/plain
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5063" 
+to="192.168.188.75:5065" 
+time="1217925522359"
+isSender="false" 
+transactionId="z9hg4bkcf516e0ae788fa52ec3a8583424978e9" 
+callId="7276875607ae21547954a716c5113c96@192.168.188.75" 
+firstLine="SUBSCRIBE sip:s1@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[SUBSCRIBE sip:s1@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 7276875607ae21547954a716c5113c96@192.168.188.75
+CSeq: 1 SUBSCRIBE
+From: "s3" <sip:s3@192.168.188.75:5063>;tag=WatcherClientclientv1.0
+To: "s1" <sip:s1@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5063;branch=z9hG4bKcf516e0ae788fa52ec3a8583424978e9
+Max-Forwards: 70
+Contact: "s3" <sip:s3@192.168.188.75:5063>
+Event: state
+Expires: 600000
+Content-Type: text/plain
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5063" 
+to="192.168.188.75:5065" 
+time="1217925524375"
+isSender="false" 
+transactionId="z9hg4bkcf516e0ae788fa52ec3a8583424978e9" 
+callId="7276875607ae21547954a716c5113c96@192.168.188.75" 
+firstLine="SUBSCRIBE sip:s1@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[SUBSCRIBE sip:s1@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 7276875607ae21547954a716c5113c96@192.168.188.75
+CSeq: 1 SUBSCRIBE
+From: "s3" <sip:s3@192.168.188.75:5063>;tag=WatcherClientclientv1.0
+To: "s1" <sip:s1@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5063;branch=z9hG4bKcf516e0ae788fa52ec3a8583424978e9
+Max-Forwards: 70
+Contact: "s3" <sip:s3@192.168.188.75:5063>
+Event: state
+Expires: 600000
+Content-Type: text/plain
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5063" 
+to="192.168.188.75:5065" 
+time="1217925528375"
+isSender="false" 
+transactionId="z9hg4bkcf516e0ae788fa52ec3a8583424978e9" 
+callId="7276875607ae21547954a716c5113c96@192.168.188.75" 
+firstLine="SUBSCRIBE sip:s1@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[SUBSCRIBE sip:s1@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 7276875607ae21547954a716c5113c96@192.168.188.75
+CSeq: 1 SUBSCRIBE
+From: "s3" <sip:s3@192.168.188.75:5063>;tag=WatcherClientclientv1.0
+To: "s1" <sip:s1@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5063;branch=z9hG4bKcf516e0ae788fa52ec3a8583424978e9
+Max-Forwards: 70
+Contact: "s3" <sip:s3@192.168.188.75:5063>
+Event: state
+Expires: 600000
+Content-Type: text/plain
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5063" 
+to="192.168.188.75:5065" 
+time="1217925532375"
+isSender="false" 
+transactionId="z9hg4bkcf516e0ae788fa52ec3a8583424978e9" 
+callId="7276875607ae21547954a716c5113c96@192.168.188.75" 
+firstLine="SUBSCRIBE sip:s1@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[SUBSCRIBE sip:s1@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 7276875607ae21547954a716c5113c96@192.168.188.75
+CSeq: 1 SUBSCRIBE
+From: "s3" <sip:s3@192.168.188.75:5063>;tag=WatcherClientclientv1.0
+To: "s1" <sip:s1@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5063;branch=z9hG4bKcf516e0ae788fa52ec3a8583424978e9
+Max-Forwards: 70
+Contact: "s3" <sip:s3@192.168.188.75:5063>
+Event: state
+Expires: 600000
+Content-Type: text/plain
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5063" 
+to="192.168.188.75:5065" 
+time="1217925536406"
+isSender="false" 
+transactionId="z9hg4bkcf516e0ae788fa52ec3a8583424978e9" 
+callId="7276875607ae21547954a716c5113c96@192.168.188.75" 
+firstLine="SUBSCRIBE sip:s1@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[SUBSCRIBE sip:s1@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 7276875607ae21547954a716c5113c96@192.168.188.75
+CSeq: 1 SUBSCRIBE
+From: "s3" <sip:s3@192.168.188.75:5063>;tag=WatcherClientclientv1.0
+To: "s1" <sip:s1@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5063;branch=z9hG4bKcf516e0ae788fa52ec3a8583424978e9
+Max-Forwards: 70
+Contact: "s3" <sip:s3@192.168.188.75:5063>
+Event: state
+Expires: 600000
+Content-Type: text/plain
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5063" 
+to="192.168.188.75:5065" 
+time="1217925540406"
+isSender="false" 
+transactionId="z9hg4bkcf516e0ae788fa52ec3a8583424978e9" 
+callId="7276875607ae21547954a716c5113c96@192.168.188.75" 
+firstLine="SUBSCRIBE sip:s1@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[SUBSCRIBE sip:s1@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 7276875607ae21547954a716c5113c96@192.168.188.75
+CSeq: 1 SUBSCRIBE
+From: "s3" <sip:s3@192.168.188.75:5063>;tag=WatcherClientclientv1.0
+To: "s1" <sip:s1@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5063;branch=z9hG4bKcf516e0ae788fa52ec3a8583424978e9
+Max-Forwards: 70
+Contact: "s3" <sip:s3@192.168.188.75:5063>
+Event: state
+Expires: 600000
+Content-Type: text/plain
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5063" 
+to="192.168.188.75:5065" 
+time="1217925544421"
+isSender="false" 
+transactionId="z9hg4bkcf516e0ae788fa52ec3a8583424978e9" 
+callId="7276875607ae21547954a716c5113c96@192.168.188.75" 
+firstLine="SUBSCRIBE sip:s1@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[SUBSCRIBE sip:s1@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 7276875607ae21547954a716c5113c96@192.168.188.75
+CSeq: 1 SUBSCRIBE
+From: "s3" <sip:s3@192.168.188.75:5063>;tag=WatcherClientclientv1.0
+To: "s1" <sip:s1@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5063;branch=z9hG4bKcf516e0ae788fa52ec3a8583424978e9
+Max-Forwards: 70
+Contact: "s3" <sip:s3@192.168.188.75:5063>
+Event: state
+Expires: 600000
+Content-Type: text/plain
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5063" 
+to="192.168.188.75:5065" 
+time="1217925548421"
+isSender="false" 
+transactionId="z9hg4bkcf516e0ae788fa52ec3a8583424978e9" 
+callId="7276875607ae21547954a716c5113c96@192.168.188.75" 
+firstLine="SUBSCRIBE sip:s1@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[SUBSCRIBE sip:s1@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 7276875607ae21547954a716c5113c96@192.168.188.75
+CSeq: 1 SUBSCRIBE
+From: "s3" <sip:s3@192.168.188.75:5063>;tag=WatcherClientclientv1.0
+To: "s1" <sip:s1@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5063;branch=z9hG4bKcf516e0ae788fa52ec3a8583424978e9
+Max-Forwards: 70
+Contact: "s3" <sip:s3@192.168.188.75:5063>
+Event: state
+Expires: 600000
+Content-Type: text/plain
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 192.168.188.75
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<message
+from="192.168.188.75:5071" 
+to="192.168.188.75:5065" 
+time="1217926415437"
+isSender="false" 
+transactionId="z9hg4bk89609c8ff4df2ac36a9c0b90357e1c3a" 
+callId="a72e843cf0d78f601ee371e989cb8149@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: a72e843cf0d78f601ee371e989cb8149@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5071>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5071;branch=z9hG4bK89609c8ff4df2ac36a9c0b90357e1c3a
+Max-Forwards: 70
+Contact: "s1" <sip:s1@192.168.188.75:5071>
+Content-Type: text/plain
+Content-Length: 30
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5071" 
+time="1217926415796"
+isSender="true" 
+transactionId="z9hg4bk89609c8ff4df2ac36a9c0b90357e1c3a" 
+callId="a72e843cf0d78f601ee371e989cb8149@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: a72e843cf0d78f601ee371e989cb8149@192.168.188.75
+CSeq: 1 REGISTER
+From: "s1" <sip:s1@192.168.188.75:5071>;tag=PresenceAgent
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5071;branch=z9hG4bK89609c8ff4df2ac36a9c0b90357e1c3a
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5063" 
+to="192.168.188.75:5065" 
+time="1217926417656"
+isSender="false" 
+transactionId="z9hg4bkb322555b0df5a5c1941ac2c0f51ea082" 
+callId="c6b297e3b1682fdbc348f88a9da7ce1a@192.168.188.75" 
+firstLine="REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[REGISTER sip:s5@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: c6b297e3b1682fdbc348f88a9da7ce1a@192.168.188.75
+CSeq: 1 REGISTER
+From: "s3" <sip:s3@192.168.188.75:5063>;tag=Client
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5063;branch=z9hG4bKb322555b0df5a5c1941ac2c0f51ea082
+Max-Forwards: 70
+Contact: "s3" <sip:s3@192.168.188.75:5063>
+Content-Type: text/plain
+Content-Length: 27
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5063" 
+time="1217926417671"
+isSender="true" 
+transactionId="z9hg4bkb322555b0df5a5c1941ac2c0f51ea082" 
+callId="c6b297e3b1682fdbc348f88a9da7ce1a@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: c6b297e3b1682fdbc348f88a9da7ce1a@192.168.188.75
+CSeq: 1 REGISTER
+From: "s3" <sip:s3@192.168.188.75:5063>;tag=Client
+To: "s5" <sip:s5@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5063;branch=z9hG4bKb322555b0df5a5c1941ac2c0f51ea082
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5065" 
+to="192.168.188.75:5063" 
+time="1217926417765"
+isSender="true" 
+transactionId="presenceserver:bb284d8c7050aadc7bfa72f1207002a2@192.168.188.75:1:message:192.168.188.75:5065" 
+callId="bb284d8c7050aadc7bfa72f1207002a2@192.168.188.75" 
+firstLine="MESSAGE sip:s3@192.168.188.75:5063;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:s3@192.168.188.75:5063;transport=udp SIP/2.0
+Call-ID: bb284d8c7050aadc7bfa72f1207002a2@192.168.188.75
+CSeq: 1 MESSAGE
+From: "s5" <sip:s5@192.168.188.75:5065>;tag=PresenceServer
+To: "s3" <sip:s3@192.168.188.75:5063>
+Via: SIP/2.0/UDP 192.168.188.75:5065;branch=branch1
+Max-Forwards: 70
+Contact: "s5" <sip:s5@192.168.188.75:5065>
+Content-Type: text/plain
+Content-Length: 30
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5063" 
+to="192.168.188.75:5065" 
+time="1217926417937"
+isSender="false" 
+transactionId="presenceserver:bb284d8c7050aadc7bfa72f1207002a2@192.168.188.75:1:message:192.168.188.75:5065" 
+callId="bb284d8c7050aadc7bfa72f1207002a2@192.168.188.75" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: bb284d8c7050aadc7bfa72f1207002a2@192.168.188.75
+CSeq: 1 MESSAGE
+From: "s5" <sip:s5@192.168.188.75:5065>;tag=PresenceServer
+To: "s3" <sip:s3@192.168.188.75:5063>;tag=888
+Via: SIP/2.0/UDP 192.168.188.75:5065;branch=branch1
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5063" 
+to="192.168.188.75:5065" 
+time="1217926444125"
+isSender="false" 
+transactionId="z9hg4bk224d7f35d813ec1a4b9ce95f5411ae5a" 
+callId="3147933829ab1b74604ade788625295f@192.168.188.75" 
+firstLine="SUBSCRIBE sip:s1@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[SUBSCRIBE sip:s1@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 3147933829ab1b74604ade788625295f@192.168.188.75
+CSeq: 1 SUBSCRIBE
+From: "s3" <sip:s3@192.168.188.75:5063>;tag=WatcherClientclientv1.0
+To: "s1" <sip:s1@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5063;branch=z9hG4bK224d7f35d813ec1a4b9ce95f5411ae5a
+Max-Forwards: 70
+Contact: "s3" <sip:s3@192.168.188.75:5063>
+Event: state
+Expires: 600000
+Content-Type: text/plain
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5063" 
+to="192.168.188.75:5065" 
+time="1217926444593"
+isSender="false" 
+transactionId="z9hg4bk224d7f35d813ec1a4b9ce95f5411ae5a" 
+callId="3147933829ab1b74604ade788625295f@192.168.188.75" 
+firstLine="SUBSCRIBE sip:s1@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[SUBSCRIBE sip:s1@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 3147933829ab1b74604ade788625295f@192.168.188.75
+CSeq: 1 SUBSCRIBE
+From: "s3" <sip:s3@192.168.188.75:5063>;tag=WatcherClientclientv1.0
+To: "s1" <sip:s1@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5063;branch=z9hG4bK224d7f35d813ec1a4b9ce95f5411ae5a
+Max-Forwards: 70
+Contact: "s3" <sip:s3@192.168.188.75:5063>
+Event: state
+Expires: 600000
+Content-Type: text/plain
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5063" 
+to="192.168.188.75:5065" 
+time="1217926445609"
+isSender="false" 
+transactionId="z9hg4bk224d7f35d813ec1a4b9ce95f5411ae5a" 
+callId="3147933829ab1b74604ade788625295f@192.168.188.75" 
+firstLine="SUBSCRIBE sip:s1@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[SUBSCRIBE sip:s1@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 3147933829ab1b74604ade788625295f@192.168.188.75
+CSeq: 1 SUBSCRIBE
+From: "s3" <sip:s3@192.168.188.75:5063>;tag=WatcherClientclientv1.0
+To: "s1" <sip:s1@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5063;branch=z9hG4bK224d7f35d813ec1a4b9ce95f5411ae5a
+Max-Forwards: 70
+Contact: "s3" <sip:s3@192.168.188.75:5063>
+Event: state
+Expires: 600000
+Content-Type: text/plain
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5063" 
+to="192.168.188.75:5065" 
+time="1217926447593"
+isSender="false" 
+transactionId="z9hg4bk224d7f35d813ec1a4b9ce95f5411ae5a" 
+callId="3147933829ab1b74604ade788625295f@192.168.188.75" 
+firstLine="SUBSCRIBE sip:s1@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[SUBSCRIBE sip:s1@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 3147933829ab1b74604ade788625295f@192.168.188.75
+CSeq: 1 SUBSCRIBE
+From: "s3" <sip:s3@192.168.188.75:5063>;tag=WatcherClientclientv1.0
+To: "s1" <sip:s1@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5063;branch=z9hG4bK224d7f35d813ec1a4b9ce95f5411ae5a
+Max-Forwards: 70
+Contact: "s3" <sip:s3@192.168.188.75:5063>
+Event: state
+Expires: 600000
+Content-Type: text/plain
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5063" 
+to="192.168.188.75:5065" 
+time="1217926451609"
+isSender="false" 
+transactionId="z9hg4bk224d7f35d813ec1a4b9ce95f5411ae5a" 
+callId="3147933829ab1b74604ade788625295f@192.168.188.75" 
+firstLine="SUBSCRIBE sip:s1@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[SUBSCRIBE sip:s1@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 3147933829ab1b74604ade788625295f@192.168.188.75
+CSeq: 1 SUBSCRIBE
+From: "s3" <sip:s3@192.168.188.75:5063>;tag=WatcherClientclientv1.0
+To: "s1" <sip:s1@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5063;branch=z9hG4bK224d7f35d813ec1a4b9ce95f5411ae5a
+Max-Forwards: 70
+Contact: "s3" <sip:s3@192.168.188.75:5063>
+Event: state
+Expires: 600000
+Content-Type: text/plain
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5063" 
+to="192.168.188.75:5065" 
+time="1217926455609"
+isSender="false" 
+transactionId="z9hg4bk224d7f35d813ec1a4b9ce95f5411ae5a" 
+callId="3147933829ab1b74604ade788625295f@192.168.188.75" 
+firstLine="SUBSCRIBE sip:s1@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[SUBSCRIBE sip:s1@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 3147933829ab1b74604ade788625295f@192.168.188.75
+CSeq: 1 SUBSCRIBE
+From: "s3" <sip:s3@192.168.188.75:5063>;tag=WatcherClientclientv1.0
+To: "s1" <sip:s1@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5063;branch=z9hG4bK224d7f35d813ec1a4b9ce95f5411ae5a
+Max-Forwards: 70
+Contact: "s3" <sip:s3@192.168.188.75:5063>
+Event: state
+Expires: 600000
+Content-Type: text/plain
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5063" 
+to="192.168.188.75:5065" 
+time="1217926459609"
+isSender="false" 
+transactionId="z9hg4bk224d7f35d813ec1a4b9ce95f5411ae5a" 
+callId="3147933829ab1b74604ade788625295f@192.168.188.75" 
+firstLine="SUBSCRIBE sip:s1@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[SUBSCRIBE sip:s1@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 3147933829ab1b74604ade788625295f@192.168.188.75
+CSeq: 1 SUBSCRIBE
+From: "s3" <sip:s3@192.168.188.75:5063>;tag=WatcherClientclientv1.0
+To: "s1" <sip:s1@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5063;branch=z9hG4bK224d7f35d813ec1a4b9ce95f5411ae5a
+Max-Forwards: 70
+Contact: "s3" <sip:s3@192.168.188.75:5063>
+Event: state
+Expires: 600000
+Content-Type: text/plain
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5063" 
+to="192.168.188.75:5065" 
+time="1217926463625"
+isSender="false" 
+transactionId="z9hg4bk224d7f35d813ec1a4b9ce95f5411ae5a" 
+callId="3147933829ab1b74604ade788625295f@192.168.188.75" 
+firstLine="SUBSCRIBE sip:s1@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[SUBSCRIBE sip:s1@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 3147933829ab1b74604ade788625295f@192.168.188.75
+CSeq: 1 SUBSCRIBE
+From: "s3" <sip:s3@192.168.188.75:5063>;tag=WatcherClientclientv1.0
+To: "s1" <sip:s1@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5063;branch=z9hG4bK224d7f35d813ec1a4b9ce95f5411ae5a
+Max-Forwards: 70
+Contact: "s3" <sip:s3@192.168.188.75:5063>
+Event: state
+Expires: 600000
+Content-Type: text/plain
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5063" 
+to="192.168.188.75:5065" 
+time="1217926467609"
+isSender="false" 
+transactionId="z9hg4bk224d7f35d813ec1a4b9ce95f5411ae5a" 
+callId="3147933829ab1b74604ade788625295f@192.168.188.75" 
+firstLine="SUBSCRIBE sip:s1@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[SUBSCRIBE sip:s1@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 3147933829ab1b74604ade788625295f@192.168.188.75
+CSeq: 1 SUBSCRIBE
+From: "s3" <sip:s3@192.168.188.75:5063>;tag=WatcherClientclientv1.0
+To: "s1" <sip:s1@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5063;branch=z9hG4bK224d7f35d813ec1a4b9ce95f5411ae5a
+Max-Forwards: 70
+Contact: "s3" <sip:s3@192.168.188.75:5063>
+Event: state
+Expires: 600000
+Content-Type: text/plain
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="192.168.188.75:5063" 
+to="192.168.188.75:5065" 
+time="1217926471609"
+isSender="false" 
+transactionId="z9hg4bk224d7f35d813ec1a4b9ce95f5411ae5a" 
+callId="3147933829ab1b74604ade788625295f@192.168.188.75" 
+firstLine="SUBSCRIBE sip:s1@192.168.188.75:5065;transport=udp SIP/2.0" 
+>
+<![CDATA[SUBSCRIBE sip:s1@192.168.188.75:5065;transport=udp SIP/2.0
+Call-ID: 3147933829ab1b74604ade788625295f@192.168.188.75
+CSeq: 1 SUBSCRIBE
+From: "s3" <sip:s3@192.168.188.75:5063>;tag=WatcherClientclientv1.0
+To: "s1" <sip:s1@192.168.188.75:5065>
+Via: SIP/2.0/UDP 192.168.188.75:5063;branch=z9hG4bK224d7f35d813ec1a4b9ce95f5411ae5a
+Max-Forwards: 70
+Contact: "s3" <sip:s3@192.168.188.75:5063>
+Event: state
+Expires: 600000
+Content-Type: text/plain
+Content-Length: 0
+
+]]>
+</message>
+

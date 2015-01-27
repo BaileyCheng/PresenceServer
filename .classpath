@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/研究所/SIP presence/TextClient/lib/concurrent.jar"/>
+	<classpathentry kind="lib" path="D:/研究所/SIP presence/TextClient/lib/JainSipApi1.2.jar"/>
+	<classpathentry kind="lib" path="D:/研究所/SIP presence/TextClient/lib/JainSipRi1.2.jar"/>
+	<classpathentry kind="lib" path="D:/研究所/SIP presence/TextClient/lib/log4j-1.2.8.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
